@@ -44,6 +44,41 @@
       font-size: 14px;
       text-align: center;
     }
+    #controls {
+      position: absolute;
+      right: 12px;
+      bottom: 12px;
+      left: 12px;
+      display: flex;
+      align-items: flex-end;
+      gap: 18px;
+      padding: 10px 12px;
+      border: 1px solid #444;
+      border-radius: 6px;
+      color: #ddd;
+      background: rgb(0 0 0 / 78%);
+      font-size: 13px;
+    }
+    .control { display: grid; gap: 5px; min-width: 190px; }
+    .control strong { font-weight: 500; }
+    input[type="range"] { width: 190px; accent-color: #ddd; }
+    select {
+      min-width: 190px;
+      padding: 4px;
+      border: 1px solid #555;
+      border-radius: 4px;
+      color: #ddd;
+      background: #111;
+      font: inherit;
+    }
+    #params {
+      flex: 1;
+      min-width: 220px;
+      margin: 0;
+      color: #aaa;
+      line-height: 1.5;
+      white-space: pre-wrap;
+    }
     #fullscreen {
       position: absolute;
       right: 16px;
@@ -56,7 +91,7 @@
       font: inherit;
       cursor: pointer;
     }
-    #fullscreen[hidden], #message[hidden], #start[hidden] { display: none; }
+    #controls[hidden], #fullscreen[hidden], #message[hidden], #start[hidden] { display: none; }
   </style>
 </head>
 <body>
@@ -65,6 +100,21 @@
     <button id="start" type="button">打开摄像头</button>
     <button id="fullscreen" type="button" hidden>全屏</button>
     <div id="message" role="status" hidden></div>
+    <section id="controls" hidden aria-label="摄像头控制和参数">
+      <label class="control">
+        <strong>缩放 <output id="zoomValue">不支持</output></strong>
+        <input id="zoom" type="range" disabled>
+      </label>
+      <label class="control">
+        <strong>对焦距离 <output id="focusValue">不支持</output></strong>
+        <input id="focus" type="range" disabled>
+      </label>
+      <label class="control">
+        <strong>对焦模式</strong>
+        <select id="focusMode" disabled></select>
+      </label>
+      <pre id="params" aria-live="polite"></pre>
+    </section>
   </main>
 
   <script>
@@ -73,7 +123,19 @@
     const start = document.getElementById('start');
     const fullscreen = document.getElementById('fullscreen');
     const message = document.getElementById('message');
+    const controls = document.getElementById('controls');
+    const zoom = document.getElementById('zoom');
+    const zoomValue = document.getElementById('zoomValue');
+    const focus = document.getElementById('focus');
+    const focusValue = document.getElementById('focusValue');
+    const focusMode = document.getElementById('focusMode');
+    const params = document.getElementById('params');
     let stream;
+    let track;
+    let baseConstraints;
+    let refreshTimer;
+    let applyTimer;
+    let pendingChanges = {};
 
     function showMessage(text) {
       message.textContent = text;
@@ -92,13 +154,19 @@
             frameRate: { ideal: 30, max: 60 }
           }
         });
+        track = stream.getVideoTracks()[0];
+        baseConstraints = track.getConstraints?.() || {};
         preview.srcObject = stream;
         await preview.play();
         start.hidden = true;
         fullscreen.hidden = false;
-        const settings = stream.getVideoTracks()[0].getSettings();
+        controls.hidden = false;
+        configureControls();
+        const settings = track.getSettings?.() || {};
         showMessage(`${settings.width || '?'} × ${settings.height || '?'} · 未镜像`);
         window.setTimeout(() => { message.hidden = true; }, 2200);
+        refreshTimer = window.setInterval(updateParameters, 500);
+        updateParameters();
       } catch (error) {
         start.disabled = false;
         const reason = error.name === 'NotAllowedError'
@@ -110,6 +178,116 @@
       }
     }
 
+    function formatNumber(value, digits = 2) {
+      return typeof value === 'number' && Number.isFinite(value)
+        ? value.toFixed(digits).replace(/\.00$/, '')
+        : '—';
+    }
+
+    function setRange(input, output, capability, value, unit) {
+      if (!capability || typeof capability !== 'object'
+        || !Number.isFinite(capability.min) || !Number.isFinite(capability.max)
+        || capability.max <= capability.min) {
+        input.disabled = true;
+        output.textContent = capability && Number.isFinite(value)
+          ? `${formatNumber(value)}${unit}`
+          : '不支持';
+        return;
+      }
+      input.disabled = false;
+      input.min = capability.min;
+      input.max = capability.max;
+      input.step = Math.max((capability.max - capability.min) / 1000, 0.01);
+      input.value = typeof value === 'number' ? value : capability.min;
+      output.textContent = `${formatNumber(Number(input.value))}${unit}`;
+    }
+
+    function configureControls() {
+      const capabilities = track.getCapabilities?.() || {};
+      const settings = track.getSettings?.() || {};
+      setRange(zoom, zoomValue, capabilities.zoom, settings.zoom, '×');
+      setRange(focus, focusValue, capabilities.focusDistance, settings.focusDistance, '');
+
+      focusMode.replaceChildren();
+      const modes = Array.isArray(capabilities.focusMode) ? capabilities.focusMode : [];
+      const modeNames = {
+        continuous: '连续自动',
+        'single-shot': '单次自动',
+        manual: '手动'
+      };
+      if (!modes.length) {
+        const option = document.createElement('option');
+        option.textContent = '不支持';
+        focusMode.append(option);
+        focusMode.disabled = true;
+      } else {
+        for (const mode of modes) {
+          const option = document.createElement('option');
+          option.value = mode;
+          option.textContent = modeNames[mode] || mode;
+          focusMode.append(option);
+        }
+        focusMode.disabled = false;
+        if (settings.focusMode && modes.includes(settings.focusMode)) {
+          focusMode.value = settings.focusMode;
+        }
+      }
+    }
+
+    async function applyCameraSettings(changes) {
+      if (!track || track.readyState !== 'live') return;
+      try {
+        await track.applyConstraints({
+          ...baseConstraints,
+          ...(typeof zoom.value === 'string' && !zoom.disabled ? { zoom: Number(zoom.value) } : {}),
+          ...(typeof focus.value === 'string' && !focus.disabled ? { focusDistance: Number(focus.value) } : {}),
+          ...(focusMode.disabled ? {} : { focusMode: focusMode.value }),
+          ...changes
+        });
+        updateParameters();
+      } catch (error) {
+        showMessage(`摄像头不接受此参数：${error.name || '设置失败'}`);
+        window.setTimeout(() => { message.hidden = true; }, 1800);
+      }
+    }
+
+    function queueCameraSettings(changes) {
+      pendingChanges = { ...pendingChanges, ...changes };
+      window.clearTimeout(applyTimer);
+      applyTimer = window.setTimeout(() => {
+        const changesToApply = pendingChanges;
+        pendingChanges = {};
+        applyCameraSettings(changesToApply);
+      }, 80);
+    }
+
+    function updateParameters() {
+      if (!track) return;
+      const settings = track.getSettings?.() || {};
+      const cameraName = track.label || '未提供名称';
+      const aspect = settings.aspectRatio || (settings.width && settings.height
+        ? settings.width / settings.height
+        : null);
+      const focusText = settings.focusDistance == null
+        ? '不支持/未返回'
+        : formatNumber(settings.focusDistance);
+      params.textContent = [
+        `摄像头：${cameraName}`,
+        `分辨率：${settings.width || '—'} × ${settings.height || '—'}`,
+        `帧率：${formatNumber(settings.frameRate, 1)} fps　比例：${formatNumber(aspect)}`,
+        `缩放：${settings.zoom == null ? '不支持/未返回' : `${formatNumber(settings.zoom)}×`}　对焦距离：${focusText}`,
+        `对焦模式：${settings.focusMode || '不支持/未返回'}`
+      ].join('\n');
+      if (!zoom.disabled && settings.zoom != null) {
+        zoom.value = settings.zoom;
+        zoomValue.textContent = `${formatNumber(settings.zoom)}×`;
+      }
+      if (!focus.disabled && settings.focusDistance != null) {
+        focus.value = settings.focusDistance;
+        focusValue.textContent = formatNumber(settings.focusDistance);
+      }
+    }
+
     async function enterFullscreen() {
       if (!document.fullscreenElement) {
         await app.requestFullscreen?.();
@@ -118,14 +296,23 @@
       }
     }
 
+    zoom.addEventListener('input', () => {
+      zoomValue.textContent = `${formatNumber(Number(zoom.value))}×`;
+      queueCameraSettings({ zoom: Number(zoom.value) });
+    });
+    focus.addEventListener('input', () => {
+      focusValue.textContent = formatNumber(Number(focus.value));
+      queueCameraSettings({ focusDistance: Number(focus.value) });
+    });
+    focusMode.addEventListener('change', () => queueCameraSettings({ focusMode: focusMode.value }));
     start.addEventListener('click', openCamera);
     fullscreen.addEventListener('click', enterFullscreen);
     preview.addEventListener('dblclick', enterFullscreen);
     window.addEventListener('beforeunload', () => {
+      if (refreshTimer) window.clearInterval(refreshTimer);
+      window.clearTimeout(applyTimer);
       stream?.getTracks().forEach(track => track.stop());
     });
   </script>
 </body>
 </html>
-
-
