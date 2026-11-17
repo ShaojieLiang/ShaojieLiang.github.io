@@ -1,0 +1,39 @@
+/* Small field adaptations; the reference stylesheet remains unchanged. */
+body { font-family: "Din", "Microsoft YaHei", "PingFang SC", sans-serif; }
+.header__title, .show__promoter, .show__subtitle, .show__author,
+.menu__item, .history-comp, .infobar, .coookies {
+  font-family: "Din", "Microsoft YaHei", "PingFang SC", sans-serif;
+}
+.is-logo-hover .header__logo svg { opacity: 1; }
+.header__logo a .js-blue-logo, .header__logo a .js-white-logo { display: none; }
+.ticket-btn::before, .ticket-btn::after { background-image: url('/personal-ticket.svg'); background-size: 147px 77px; }
+.infobar--home .repertoire__date { font-size: 27px; letter-spacing: -1px; }
+.infobar--home .repertoire__day { font-size: 11px; line-height: 1.3; }
+.infobar--home .repertoire__month--infobar { font-size: 12px; }
+.infobar--home .repertoire__title { font-size: 15px; line-height: 1.5; }
+.personal-detail-kind { font-size: 14px; letter-spacing: .08em; }
+.personal-placeholder { font-size: 13px; opacity: .6; }
+.personal-event-label { position: absolute; top: 100%; left: 50%; width: 180px; transform: translateX(-50%); color: #1e0eb6; font: 14px/1.5 "Din", "Microsoft YaHei", sans-serif; letter-spacing: 0; pointer-events: none; }
+.history-comp__step.is-hidden .personal-event-label { opacity: 0; }
+.personal-role { font-weight: bold; }
+.personal-detail-tags { font-size: 13px; letter-spacing: .03em; }
+.personal-about { max-width: 850px; padding: 170px 30px 100px; margin: auto; }
+.personal-about h1 { font: bold italic clamp(72px, 12vw, 150px)/1 Georgia, serif; margin-bottom: 50px; }
+.personal-about p { font-size: 18px; line-height: 1.9; margin: 1.5em 0; }
+.personal-about a { border-bottom: 1px solid currentColor; }
+.personal-about h2 { font-size: 28px; margin: 70px 0 24px; }
+.personal-about h3 { font-size: 17px; }
+.personal-skills { display: grid; grid-template-columns: 1fr 1fr; gap: 24px 40px; }
+.personal-skills p { font-size: 16px; margin: 12px 0 0; }
+.personal-about .personal-site-note { font-size: 12px; opacity: .6; margin-top: 70px; }
+/* The original slider uses fixed viewport-width cards, so match its track. */
+.history-comp__section .js-slider-wrap { width: max(100vw, calc(var(--step-count) * 22.5vw)) !important; }
+@media (min-width: 758px) and (max-width: 1199px) {
+  .history-comp__section .js-slider-wrap { width: max(100vw, calc(var(--step-count) * 40vw)) !important; }
+}
+@media (max-width: 757px) {
+  .history-comp__section .js-slider-wrap { width: calc(var(--step-count) * 100vw) !important; }
+  .personal-about { padding-top: 120px; }
+  .personal-about p { font-size: 16px; }
+  .personal-skills { grid-template-columns: 1fr; }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "hello",
+  "short_name": "hello",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/public/theme/favicons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1e0eb6",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147" height="77" viewBox="0 0 147 77">
+  <path fill="#0f00ce" d="M5 0h137v10a7 7 0 0 0 0 14v29a7 7 0 0 0 0 14v10H5V67a7 7 0 0 0 0-14V24a7 7 0 0 0 0-14Z"/>
+  <path d="M117 5v67" stroke="#fff" stroke-dasharray="3 4" opacity=".65"/>
+  <text x="59" y="47" text-anchor="middle" fill="#fff" font-family="Microsoft YaHei,sans-serif" font-weight="bold" font-size="25" letter-spacing="5">经历</text>
+</svg>
