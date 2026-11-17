@@ -1,0 +1,1345 @@
+{
+  "source": "https://teatrlalka.pl",
+  "assets": [
+    {
+      "path": "/public/theme/css/style.css",
+      "source": "https://teatrlalka.pl/public/theme/css/style.css",
+      "bytes": 150952,
+      "sha256": "b6398eea258399df44120f48a56484858f703345e87febbe8042ca5c3374fd71"
+    },
+    {
+      "path": "/public/theme/favicons/apple-touch-icon.png",
+      "source": "https://teatrlalka.pl/public/theme/favicons/apple-touch-icon.png",
+      "bytes": 4637,
+      "sha256": "454f3020009f0d9171787c678fbf8189c56d521e6ec749e300f6b7d8492c5827"
+    },
+    {
+      "path": "/public/theme/favicons/favicon-16x16.png",
+      "source": "https://teatrlalka.pl/public/theme/favicons/favicon-16x16.png",
+      "bytes": 667,
+      "sha256": "e0bb49e4ce2f155e89771713d7978297cd8d3eb375d5853c9fc4253665a04e59"
+    },
+    {
+      "path": "/public/theme/favicons/favicon-32x32.png",
+      "source": "https://teatrlalka.pl/public/theme/favicons/favicon-32x32.png",
+      "bytes": 1016,
+      "sha256": "1e51ed7b34213d5f11a5258a7111bdeb5905fb6af82055d53095ba689b6f4252"
+    },
+    {
+      "path": "/public/theme/favicons/favicon.ico",
+      "source": "https://teatrlalka.pl/public/theme/favicons/favicon.ico",
+      "bytes": 15086,
+      "sha256": "0b2df179e8afdc15bd098525a455047017302d9f7a93658196d101a9fd7c2bba"
+    },
+    {
+      "path": "/public/theme/favicons/manifest.json",
+      "source": "https://teatrlalka.pl/public/theme/favicons/manifest.json",
+      "bytes": 458,
+      "sha256": "259a287235c9cf9a2202ffbe4af6122101e10560a4aaf8c0c70ad86ccf97a907"
+    },
+    {
+      "path": "/public/theme/favicons/safari-pinned-tab.svg",
+      "source": "https://teatrlalka.pl/public/theme/favicons/safari-pinned-tab.svg",
+      "bytes": 3740,
+      "sha256": "e0da62c520d7cf16ada32fa1ae74f7128909b81f060e58aa46f7edf57a4eda13"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din500.eot",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din500.eot",
+      "bytes": 21260,
+      "sha256": "27c8cadf2805dca5d42c831a8791f3184e2cb3760951aee03817eb11d7ca4294"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din500.svg",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din500.svg",
+      "bytes": 43607,
+      "sha256": "a8c0aa5a4b6a7af407a9f3655d200bfd8829ba85c8897c9abfed2bfe38c06abf"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din500.ttf",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din500.ttf",
+      "bytes": 54724,
+      "sha256": "be46c1214239e69c4c4ccac88a83b343e48bde7922fb483455aed3d55e8f6f09"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din500.woff",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din500.woff",
+      "bytes": 25610,
+      "sha256": "31d111035ede557d3bd68b32c9ca25675c32bd43806413db0a4229b76aec3c29"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din500.woff2",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din500.woff2",
+      "bytes": 21440,
+      "sha256": "ec21f916818b0a9cb6424f9aaa96290323f301ef9036542a974f0bcfc55cea97"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din500italic.eot",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din500italic.eot",
+      "bytes": 22528,
+      "sha256": "6fa09ae87f8772b8b9c1324730a3d31c2ca97f4bdce7ba2790ffd22854925978"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din500italic.svg",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din500italic.svg",
+      "bytes": 43607,
+      "sha256": "afc6653678c582fe4cc3ecdbcca0e5083af91363c23945357ef4c19c0328a544"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din500italic.ttf",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din500italic.ttf",
+      "bytes": 55120,
+      "sha256": "cc7d2e79bffcc19bcff8e8b5ccaf67659c08f790a5df17d1d8ec5f0982d9afb7"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din500italic.woff",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din500italic.woff",
+      "bytes": 26735,
+      "sha256": "e277f637f0488032db6173966efd46bfe4ba0772e65ddc781b7274efde77c5de"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din500italic.woff2",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din500italic.woff2",
+      "bytes": 22424,
+      "sha256": "7c3fe9c05b147a6359b6542f15e0978619912fc04e046452c1f58fd4524bff7d"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din700.eot",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din700.eot",
+      "bytes": 21792,
+      "sha256": "d9b6605970d4065067ccd9e7d6be3a90fd69bac33b2aa15631eed4de45be1f32"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din700.svg",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din700.svg",
+      "bytes": 43607,
+      "sha256": "d0fad805e7ccdd155a7981aa2a32a668ef777321e01a90be746aafd20eea9ce3"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din700.ttf",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din700.ttf",
+      "bytes": 55380,
+      "sha256": "32930c71374f9fea478fa0a2582c538689670a4fbf6924f4401aa76e7c84d378"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din700.woff",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din700.woff",
+      "bytes": 25788,
+      "sha256": "e0d95c6b923092e1ea809d182bc7da654dbeecd170f67dd681904dff2090d8dd",
+      "local_repair": "Rebuilt from source Din700.ttf because source WOFF is empty."
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din700.woff2",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din700.woff2",
+      "bytes": 21656,
+      "sha256": "bc85b945ca4358a000633d953e79722316e665d83289380a0a9e7989ef84c60f"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din700italic.eot",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din700italic.eot",
+      "bytes": 76718,
+      "sha256": "ab5fa0ce6ade026c22a88cda1643a02d0e9b5082f384e45274b2a4b11b458ebc"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din700italic.svg",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din700italic.svg",
+      "bytes": 43607,
+      "sha256": "d08942821791c1fa7edf2ef359a7d11c3fe6abe9273f68644fb8ba0f73c68c16"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din700italic.ttf",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din700italic.ttf",
+      "bytes": 230000,
+      "sha256": "1f35f194346e7037b8f072cebd2813b8eb49555a587ebe4c325ee069ab1f7afb"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din700italic.woff",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din700italic.woff",
+      "bytes": 91316,
+      "sha256": "eb9563ef0ea20079de2b4f173f3a205cded8b787851a80ccbda60a1d859639cb"
+    },
+    {
+      "path": "/public/theme/fonts/Din/Din700italic.woff2",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Din/Din700italic.woff2",
+      "bytes": 71668,
+      "sha256": "81c4f7f8f53996ec8ca751258cafc79013a63cf2c2085342f333cc34fb216f55"
+    },
+    {
+      "path": "/public/theme/fonts/Lalka/Lalka.eot",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Lalka/Lalka.eot",
+      "bytes": 5143,
+      "sha256": "59bfcc4ddfb5e0c027cce1174fce5c9e4467a367f5951210448c27916b183557"
+    },
+    {
+      "path": "/public/theme/fonts/Lalka/Lalka.svg",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Lalka/Lalka.svg",
+      "bytes": 34434,
+      "sha256": "47ad59ba10eb126c8f347383d0542b06eebe4ced3dbaa83f1475e222e28454a3"
+    },
+    {
+      "path": "/public/theme/fonts/Lalka/Lalka.ttf",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Lalka/Lalka.ttf",
+      "bytes": 15496,
+      "sha256": "4ffa368871ed0756b4682d3ea391465817185bcbbe7057ff1c58cbaa164f3368"
+    },
+    {
+      "path": "/public/theme/fonts/Lalka/Lalka.woff",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Lalka/Lalka.woff",
+      "bytes": 6972,
+      "sha256": "6388dd1d95402ff52ca98813b1cace19a9fb14b1fd88f1a214b9c4ace67aaf61"
+    },
+    {
+      "path": "/public/theme/fonts/Lalka/Lalka.woff2",
+      "source": "https://teatrlalka.pl/public/theme/fonts/Lalka/Lalka.woff2",
+      "bytes": 4616,
+      "sha256": "51384718f60a9683de5608e668a3e1288d4c55d402187eb300d04c8d2e7db523"
+    },
+    {
+      "path": "/public/theme/images/cookies.svg",
+      "source": "https://teatrlalka.pl/public/theme/images/cookies.svg",
+      "bytes": 563,
+      "sha256": "961272735312124970e2595c1feecef2e6bc1d0110fe886d5f34c05d64174b62"
+    },
+    {
+      "path": "/public/theme/images/lalka_bg_blue-alt.jpg",
+      "source": "https://teatrlalka.pl/public/theme/images/lalka_bg_blue-alt.jpg",
+      "bytes": 133454,
+      "sha256": "5f38cfac819cb363fd3bee398475c6594ef9535fbf269e8d72345b8e13fc6375"
+    },
+    {
+      "path": "/public/theme/images/lalka_bg_blue.jpg",
+      "source": "https://teatrlalka.pl/public/theme/images/lalka_bg_blue.jpg",
+      "bytes": 161483,
+      "sha256": "d89c1a1cd75d9a1254de895774c52517052c01057193ba4d0f376f8c514aa457"
+    },
+    {
+      "path": "/public/theme/images/lalka_bg_grey.jpg",
+      "source": "https://teatrlalka.pl/public/theme/images/lalka_bg_grey.jpg",
+      "bytes": 114289,
+      "sha256": "4442fb4ee8f228064a1ab86234731130f585e9872c1cf1f8e8ac3c888023e1ef"
+    },
+    {
+      "path": "/public/theme/images/lalki/archaniol/L_noga.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/archaniol/L_noga.png",
+      "bytes": 960,
+      "sha256": "bf46aad01e4ceca6a6346206cf6e56b5e55b85747f9e98058ad6f88cb4e649bc"
+    },
+    {
+      "path": "/public/theme/images/lalki/archaniol/L_reka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/archaniol/L_reka.png",
+      "bytes": 1036,
+      "sha256": "5c7dbf2e0c9e4586a9fd47d390148654a12daf9efa8a917a8cfe319bdc3b1f9a"
+    },
+    {
+      "path": "/public/theme/images/lalki/archaniol/L_skrzydlo.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/archaniol/L_skrzydlo.png",
+      "bytes": 11095,
+      "sha256": "9b86adf2502709d4020cb56f7b25e205cb9c9c79affd02ca7886862dd7c8669d"
+    },
+    {
+      "path": "/public/theme/images/lalki/archaniol/P_noga.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/archaniol/P_noga.png",
+      "bytes": 936,
+      "sha256": "7b765d82296a6010436362153875941a3fefc1baa95d2bae33916ace5a223839"
+    },
+    {
+      "path": "/public/theme/images/lalki/archaniol/P_reka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/archaniol/P_reka.png",
+      "bytes": 1123,
+      "sha256": "e20a4303a0b464bb8bcedd6441639cac76d8be1ba4eb62a249fad10d2592df30"
+    },
+    {
+      "path": "/public/theme/images/lalki/archaniol/P_skrzydlo.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/archaniol/P_skrzydlo.png",
+      "bytes": 10736,
+      "sha256": "1236a2c69d47189eedf6b99f3c6fcd900e4810e866a347835749ba6aa3c05576"
+    },
+    {
+      "path": "/public/theme/images/lalki/archaniol/cialo01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/archaniol/cialo01.png",
+      "bytes": 11990,
+      "sha256": "833b5b78e2873094050c97b096fc1ea623e7e08d47bea919f6517e6373091a70"
+    },
+    {
+      "path": "/public/theme/images/lalki/archaniol/cialo02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/archaniol/cialo02.png",
+      "bytes": 12219,
+      "sha256": "d04a3c93cbb215c37b8ab40086787291f0155fcf1b1bf91f3f12586696b96742"
+    },
+    {
+      "path": "/public/theme/images/lalki/archaniol/miecz.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/archaniol/miecz.png",
+      "bytes": 2229,
+      "sha256": "46dcda660fe0dbaae08fee74827950142363ef491618ce06e093c693fd70b639"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-duzy/beben.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-duzy/beben.png",
+      "bytes": 3430,
+      "sha256": "197086c5691e5481459a941f00e0d1b4b1e99277b1d35c133e4bced4e97ed1bb"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-duzy/cialo-glowa.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-duzy/cialo-glowa.png",
+      "bytes": 6912,
+      "sha256": "f59034083be12788028980ebf5d9b321ebe863eb049d321fe370e9ad8ed145dc"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-duzy/cialo-glowa2.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-duzy/cialo-glowa2.png",
+      "bytes": 6907,
+      "sha256": "7ef580df9ded194315d54ee43aff675ad8da3c78f9235863215b0edf44e156da"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-duzy/nogi.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-duzy/nogi.png",
+      "bytes": 3359,
+      "sha256": "dd00939ae0852c0dd5faef0c40e03382ba7710cadf4e9567c9b8f0777f197b90"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-duzy/rece-sprite.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-duzy/rece-sprite.png",
+      "bytes": 2453,
+      "sha256": "6bab8d6607b3e1b773ad1d974544f28257303c08e99c85e804f286739ce76e83"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-duzy/rece.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-duzy/rece.png",
+      "bytes": 1427,
+      "sha256": "fc0ff4cc1f5faa3e61b0e0d25feccf299637c0de7c263113c5a8a18cc46c6df3"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-maly/beben.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-maly/beben.png",
+      "bytes": 3339,
+      "sha256": "350229f6edc2eeccfc6f3240be409f4f241fa98049932f90f2f5d85736dde043"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-maly/cialo.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-maly/cialo.png",
+      "bytes": 6037,
+      "sha256": "4a666b8b53300d2dcaa86e257cadd29a552ac48b5a7a9393dddbf667e54d67fc"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-maly/dlon01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-maly/dlon01.png",
+      "bytes": 667,
+      "sha256": "1f1feb284277fdc5da44297f3868c448c4b8acde5423c78397680e8c70954420"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-maly/dlon02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-maly/dlon02.png",
+      "bytes": 711,
+      "sha256": "8f0e2bac1ddf0fff8fef8e20637dfc70961b99400f695f47b020b275e506c737"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-maly/glowa01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-maly/glowa01.png",
+      "bytes": 3173,
+      "sha256": "7a28e3a440f67149cd0231fa9a8af68dd0f55003c9feca666fe6d545aae020b8"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-maly/glowa02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-maly/glowa02.png",
+      "bytes": 3097,
+      "sha256": "d5a19d2cced64b90b2207a54a498aca83aeee9bd40c8f1a44a699864c6282812"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-maly/helm.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-maly/helm.png",
+      "bytes": 4318,
+      "sha256": "4ddca094687a078914aece24cf7170d4716cd988856e9150c1769df54866dd9d"
+    },
+    {
+      "path": "/public/theme/images/lalki/dobosz-maly/reka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/dobosz-maly/reka.png",
+      "bytes": 677,
+      "sha256": "87279a14f43a77eb76c119be60d543bd2ce31bf174d9a6e762d51d5492d327ab"
+    },
+    {
+      "path": "/public/theme/images/lalki/guignol/glowa.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/guignol/glowa.png",
+      "bytes": 3307,
+      "sha256": "0953a0d3eec803419fb1699dd78abb25e54809fb842d41792f5a6852189e67f1"
+    },
+    {
+      "path": "/public/theme/images/lalki/guignol/noga01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/guignol/noga01.png",
+      "bytes": 1788,
+      "sha256": "238b3fc73e3ec8d0adb5f87fa5acedcc5807714800ce48bc49852bb0a7323bed"
+    },
+    {
+      "path": "/public/theme/images/lalki/guignol/noga02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/guignol/noga02.png",
+      "bytes": 851,
+      "sha256": "268b3e0fb453dc8646ae0d6df3002d5320122e4dd4f56744bcde14d00b2b5cdc"
+    },
+    {
+      "path": "/public/theme/images/lalki/guignol/reka01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/guignol/reka01.png",
+      "bytes": 953,
+      "sha256": "22dc51555ca50a30fd9502928893f1356a701676437f43f1dfabd1880ed60d87"
+    },
+    {
+      "path": "/public/theme/images/lalki/guignol/reka02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/guignol/reka02.png",
+      "bytes": 1654,
+      "sha256": "3282f01cc9f3df00935e8353baa60814063ba08aab009b2e5f2fefdf697fdbe8"
+    },
+    {
+      "path": "/public/theme/images/lalki/guignol/tulow.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/guignol/tulow.png",
+      "bytes": 3072,
+      "sha256": "088f74d7e9b899d4ac7b0552a05fc0c27abca177e9aae1675750e6ff14322a97"
+    },
+    {
+      "path": "/public/theme/images/lalki/janosik/L_noga.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/janosik/L_noga.png",
+      "bytes": 1517,
+      "sha256": "64e9b5e5b16dfb93127af2a16485bd178e2ad29f475636b804a3a6ad4d171c96"
+    },
+    {
+      "path": "/public/theme/images/lalki/janosik/L_reka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/janosik/L_reka.png",
+      "bytes": 677,
+      "sha256": "963a191d77beafced549009a636634056fe6ad5fd75b658ae788009f56980655"
+    },
+    {
+      "path": "/public/theme/images/lalki/janosik/L_udo.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/janosik/L_udo.png",
+      "bytes": 2330,
+      "sha256": "8eb8b844ac231b7b85e0338a27d52379b8e62eb758e8d686fc1b96a09e5f68a3"
+    },
+    {
+      "path": "/public/theme/images/lalki/janosik/P_noga.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/janosik/P_noga.png",
+      "bytes": 1606,
+      "sha256": "0c84195b685bf7c6bd21c495b2b4926ecebdd4192d1e29e9c5af04ea257f1b2e"
+    },
+    {
+      "path": "/public/theme/images/lalki/janosik/P_reka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/janosik/P_reka.png",
+      "bytes": 1654,
+      "sha256": "1c26b69b343c7038ac48e803e01c86d5a9ccbfaa36d825e2bb95a45e703410bc"
+    },
+    {
+      "path": "/public/theme/images/lalki/janosik/P_udo.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/janosik/P_udo.png",
+      "bytes": 2401,
+      "sha256": "3837d36d536522b684a976d1420f1496996a4be3843d0bb6f8e500e1101326a0"
+    },
+    {
+      "path": "/public/theme/images/lalki/janosik/cialo_glowa.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/janosik/cialo_glowa.png",
+      "bytes": 11793,
+      "sha256": "fed70e607ffad9aef6ce34a0def8f3201100f341677c88493dc6e65b9b1667ab"
+    },
+    {
+      "path": "/public/theme/images/lalki/karabinier/1kapelusz.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/karabinier/1kapelusz.png",
+      "bytes": 3332,
+      "sha256": "7d43f36f69dfbb19ae9e0488226cb00f92a0975cb03459d334473f16a5988b0b"
+    },
+    {
+      "path": "/public/theme/images/lalki/karabinier/2oczy-zamkniete.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/karabinier/2oczy-zamkniete.png",
+      "bytes": 1940,
+      "sha256": "4146eb094025d51411922cc7b9c35eb974eac04a1c6c9aca8fa77c285737f730"
+    },
+    {
+      "path": "/public/theme/images/lalki/karabinier/2oczy.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/karabinier/2oczy.png",
+      "bytes": 1533,
+      "sha256": "aa21bcd5c6bf26a3cf5205b6f4e56092d4eae57b29180c116fca5fd80064cc98"
+    },
+    {
+      "path": "/public/theme/images/lalki/karabinier/3reka_lewa.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/karabinier/3reka_lewa.png",
+      "bytes": 942,
+      "sha256": "8c8d28899adf5fcba1486d05d787aac7274ae3e69638d9910771a60d433e1ca4"
+    },
+    {
+      "path": "/public/theme/images/lalki/karabinier/4reka_prawa.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/karabinier/4reka_prawa.png",
+      "bytes": 943,
+      "sha256": "0a905a1227d3412b793815d335736512c6141adea73278c225bca626908228eb"
+    },
+    {
+      "path": "/public/theme/images/lalki/karabinier/5wasy.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/karabinier/5wasy.png",
+      "bytes": 650,
+      "sha256": "9c9ae43867c566ffd29cd2071ba6ee55edce97a22b7804a05336dd3e8195afea"
+    },
+    {
+      "path": "/public/theme/images/lalki/karabinier/6tulow.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/karabinier/6tulow.png",
+      "bytes": 2398,
+      "sha256": "872879100e4311d8f4447c71e214eb88f659272f26333a2651cbcbbd7c76d88a"
+    },
+    {
+      "path": "/public/theme/images/lalki/karabinier/7noga_lewa.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/karabinier/7noga_lewa.png",
+      "bytes": 1989,
+      "sha256": "9deea047f058553a44f7f2929956aa1db946c652e51a74428b799daad4155125"
+    },
+    {
+      "path": "/public/theme/images/lalki/karabinier/8noga_prawa.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/karabinier/8noga_prawa.png",
+      "bytes": 2240,
+      "sha256": "e9d7c2392c395a34dfe8b8daaf1e5dec2a1678ab562a70f8ac63fa7c6d52b919"
+    },
+    {
+      "path": "/public/theme/images/lalki/karabinier/9twarz-alt.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/karabinier/9twarz-alt.png",
+      "bytes": 2326,
+      "sha256": "c11c1fd892d20c551cedfbcff5f0f617654ebc120689a5f6dc38e1003d47ca7e"
+    },
+    {
+      "path": "/public/theme/images/lalki/karabinier/9twarz.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/karabinier/9twarz.png",
+      "bytes": 2179,
+      "sha256": "f8414f2fa1dda9baa311c2d438253934b3f9a7fdcda833353d42f7fac772052b"
+    },
+    {
+      "path": "/public/theme/images/lalki/kat/1oczy.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/kat/1oczy.png",
+      "bytes": 406,
+      "sha256": "059895087516b84af58a69324ce380f04867a3d09df9b0776e3b53dedddcc6be"
+    },
+    {
+      "path": "/public/theme/images/lalki/kat/2tulow.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/kat/2tulow.png",
+      "bytes": 7205,
+      "sha256": "669cac64fb025ee5fe35386cf9adf5be75606e27f5090a279e65ad04324846bd"
+    },
+    {
+      "path": "/public/theme/images/lalki/kat/3rece.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/kat/3rece.png",
+      "bytes": 4630,
+      "sha256": "8ed2d9ce45f0b0dfc40411a71adc8899edd326e7ca47be2f76d3366a4e97ca6f"
+    },
+    {
+      "path": "/public/theme/images/lalki/kon/noga_przednia.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/kon/noga_przednia.png",
+      "bytes": 2949,
+      "sha256": "8c92e963a258809f9ece06fd6c2f40dc1141b371378bc52a56374f32ec7b6e32"
+    },
+    {
+      "path": "/public/theme/images/lalki/kon/noga_tylna.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/kon/noga_tylna.png",
+      "bytes": 7076,
+      "sha256": "9af038ab62b94e09ff9362878855d3f01cd7e672430bb8b0d2e1aee1abade601"
+    },
+    {
+      "path": "/public/theme/images/lalki/kon/ogon.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/kon/ogon.png",
+      "bytes": 6009,
+      "sha256": "897c2f0294b436a93caa5baad63613cd99657d05fa1b9d945a10d69b79de000c"
+    },
+    {
+      "path": "/public/theme/images/lalki/kon/tulow.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/kon/tulow.png",
+      "bytes": 21856,
+      "sha256": "5dc01aaac7da3d8cf5e7cd514ed7c1ce8d7c743ea3f411609f849d49f87a5d6c"
+    },
+    {
+      "path": "/public/theme/images/lalki/krol/L_dlon_z_berlem.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/krol/L_dlon_z_berlem.png",
+      "bytes": 1731,
+      "sha256": "3f415278e1de8410171b3aed1c17d26f945c6c298aa045300d921fbf8c878a50"
+    },
+    {
+      "path": "/public/theme/images/lalki/krol/L_ramie01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/krol/L_ramie01.png",
+      "bytes": 989,
+      "sha256": "6d02572e2caeb53776b47ffd60e4a61bda35cebae5718d0d28061333da6a11ee"
+    },
+    {
+      "path": "/public/theme/images/lalki/krol/L_ramie02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/krol/L_ramie02.png",
+      "bytes": 864,
+      "sha256": "2db1b1e2eca608a65710ff214a6ff47843b7b8c55f0a972f909c5a01621e9610"
+    },
+    {
+      "path": "/public/theme/images/lalki/krol/L_ramie03.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/krol/L_ramie03.png",
+      "bytes": 698,
+      "sha256": "f781cae8136858495614f558d5bb386049d0b5a37a2f34ccb6aaa4e4c24a06df"
+    },
+    {
+      "path": "/public/theme/images/lalki/krol/P_dlon.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/krol/P_dlon.png",
+      "bytes": 824,
+      "sha256": "d00b20d797b1f84b54a89ae9698ca87ebb3dd3e230c84f8afe344070ccdb6aa1"
+    },
+    {
+      "path": "/public/theme/images/lalki/krol/P_ramie01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/krol/P_ramie01.png",
+      "bytes": 982,
+      "sha256": "90263b979816649173ece479c17c77303b9be24ba9588dc0c89d97a1d72ee7fc"
+    },
+    {
+      "path": "/public/theme/images/lalki/krol/P_ramie02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/krol/P_ramie02.png",
+      "bytes": 860,
+      "sha256": "174f950f1173273010e921f8aedd6ac59e7b1719554795ffc2725aedaf38051e"
+    },
+    {
+      "path": "/public/theme/images/lalki/krol/P_ramie03.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/krol/P_ramie03.png",
+      "bytes": 707,
+      "sha256": "f0e42fbc0ff2a35bcaccc617f4721fdff410c10d186905cb8cc3154a0d622a54"
+    },
+    {
+      "path": "/public/theme/images/lalki/krol/glowa_korona.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/krol/glowa_korona.png",
+      "bytes": 5937,
+      "sha256": "8230027dc06af548f3c42f336532fb1da5c3104322f6ebdf963b2a2989d0ab94"
+    },
+    {
+      "path": "/public/theme/images/lalki/krol/oczy.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/krol/oczy.png",
+      "bytes": 438,
+      "sha256": "7e285a49505424ccd4d1a9ae844862267ef2ddee9f4254ba9cb6004176a5f133"
+    },
+    {
+      "path": "/public/theme/images/lalki/krol/tulow-sprite.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/krol/tulow-sprite.png",
+      "bytes": 68665,
+      "sha256": "cc51b9ca9930f45a361ea56399a60bb623b5539c10474d60ccce7e3ee1f25e23"
+    },
+    {
+      "path": "/public/theme/images/lalki/krol/tulow.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/krol/tulow.png",
+      "bytes": 14150,
+      "sha256": "c3d1f2b02089310a6633f20317bf506fffe16cb073471db7909e55f529627a61"
+    },
+    {
+      "path": "/public/theme/images/lalki/ksiezniczka/biodra_sukienka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/ksiezniczka/biodra_sukienka.png",
+      "bytes": 4991,
+      "sha256": "b1cebb32fd02c725f17ca2538af652e4b25f4ea3d6f75bd5aadbff1aabf97492"
+    },
+    {
+      "path": "/public/theme/images/lalki/ksiezniczka/glowa.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/ksiezniczka/glowa.png",
+      "bytes": 4807,
+      "sha256": "c4d2a6d725830d27892ddd19d27e4ca9794b8070e7c2bb1d96651422c37528e1"
+    },
+    {
+      "path": "/public/theme/images/lalki/ksiezniczka/rece_sukienka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/ksiezniczka/rece_sukienka.png",
+      "bytes": 20645,
+      "sha256": "6ea72ae928c0be00239ce803cfb5f8082f976ddf6de790cf1318ed2dd36a3d3d"
+    },
+    {
+      "path": "/public/theme/images/lalki/ksiezniczka/sukienka_przod.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/ksiezniczka/sukienka_przod.png",
+      "bytes": 2971,
+      "sha256": "2ac71d11fd6c6cc3cb887d963893fff703312934dbe39ee38abba237f31557b6"
+    },
+    {
+      "path": "/public/theme/images/lalki/ksiezniczka/szyja.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/ksiezniczka/szyja.png",
+      "bytes": 1007,
+      "sha256": "5e5aa4331bbc0e997e7fc35242f426f2f5f2f30cba5a8b3cc07142358b94bb0e"
+    },
+    {
+      "path": "/public/theme/images/lalki/ksiezniczka/talia.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/ksiezniczka/talia.png",
+      "bytes": 2187,
+      "sha256": "2c1756fc027d0ec146ee7cb03f1adac0487ec3b61a7daa4295e3e9f6b27696a6"
+    },
+    {
+      "path": "/public/theme/images/lalki/lew/cialo.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/lew/cialo.png",
+      "bytes": 7784,
+      "sha256": "e821bb1a5ec92e023a522e1e37499031252090f3793ac14973a9a91115cceb91"
+    },
+    {
+      "path": "/public/theme/images/lalki/lew/glowa01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/lew/glowa01.png",
+      "bytes": 11380,
+      "sha256": "7dca620523361b086f5c0096e6f27d2fad068fae3958a8e04bf53b9acf52c40c"
+    },
+    {
+      "path": "/public/theme/images/lalki/lew/glowa02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/lew/glowa02.png",
+      "bytes": 11641,
+      "sha256": "4db4e187ae673479c70d6fa413b5a9a1387cc6c1cc0374e657a6ccabef00b2fe"
+    },
+    {
+      "path": "/public/theme/images/lalki/malpka/L_reka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/malpka/L_reka.png",
+      "bytes": 610,
+      "sha256": "e84fe5d6945040de1eeacbd4b17534a33442fdf0bdf717c11752648a320f2bcf"
+    },
+    {
+      "path": "/public/theme/images/lalki/malpka/P_reka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/malpka/P_reka.png",
+      "bytes": 622,
+      "sha256": "a0943fdc6cf0ed1b1d6129582c868821e3031ae9e16d5fbee18524f0b83f19e6"
+    },
+    {
+      "path": "/public/theme/images/lalki/malpka/glowa.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/malpka/glowa.png",
+      "bytes": 3908,
+      "sha256": "868f5f8aff509a8501a4ae6bcbd203fd7b4cb9f67d0e1faa0b006a8789efa5ee"
+    },
+    {
+      "path": "/public/theme/images/lalki/malpka/glowa02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/malpka/glowa02.png",
+      "bytes": 3905,
+      "sha256": "fd8bf90c4967ebfb8fcd1065d0944b61af416e9846fffd67c092766f19600afe"
+    },
+    {
+      "path": "/public/theme/images/lalki/malpka/tulow.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/malpka/tulow.png",
+      "bytes": 5456,
+      "sha256": "5e8b2735c48546d50ddf0933a8f90adaa55776f18d75f108b934806e704d79f7"
+    },
+    {
+      "path": "/public/theme/images/lalki/maluszkiewicz/L_noga.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/maluszkiewicz/L_noga.png",
+      "bytes": 1170,
+      "sha256": "7b2708e47faeb55099dc60e5c1ede5c949b34870a216327798e0e3b3f8c65ca0"
+    },
+    {
+      "path": "/public/theme/images/lalki/maluszkiewicz/L_reka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/maluszkiewicz/L_reka.png",
+      "bytes": 1583,
+      "sha256": "9117f1ebe26662074ebbb5a4c526a047c4233aea012794c82a5383fb100cf463"
+    },
+    {
+      "path": "/public/theme/images/lalki/maluszkiewicz/L_was.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/maluszkiewicz/L_was.png",
+      "bytes": 1253,
+      "sha256": "a399c282a431168055ec8375e50a36e01b4bc50d25920e5e3ad3c7ffc7f5a3c0"
+    },
+    {
+      "path": "/public/theme/images/lalki/maluszkiewicz/P_noga.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/maluszkiewicz/P_noga.png",
+      "bytes": 1187,
+      "sha256": "70daef44a3478105632f192a71ae43421cc9f45c3e55c0e43aa6661608ecb210"
+    },
+    {
+      "path": "/public/theme/images/lalki/maluszkiewicz/P_reka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/maluszkiewicz/P_reka.png",
+      "bytes": 1669,
+      "sha256": "9be5ce9b1aeee075d218ff3009c143ad19cb4f99240c46e932cea1a783692f81"
+    },
+    {
+      "path": "/public/theme/images/lalki/maluszkiewicz/P_was.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/maluszkiewicz/P_was.png",
+      "bytes": 1254,
+      "sha256": "b03b3fe1fce8520154bddcbc7d8606d7af456d4f9f4596c7ed8c31f565486474"
+    },
+    {
+      "path": "/public/theme/images/lalki/maluszkiewicz/cialo.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/maluszkiewicz/cialo.png",
+      "bytes": 2453,
+      "sha256": "d507bec290e6d68d341360fd0a2cdf1a59d4cca30673c375d114bc67b08fb2e1"
+    },
+    {
+      "path": "/public/theme/images/lalki/maluszkiewicz/glowa.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/maluszkiewicz/glowa.png",
+      "bytes": 2421,
+      "sha256": "f3870f233bd8b5a7f9ff35677acf7145fe779fe1ab9d2129661c92d35027e79c"
+    },
+    {
+      "path": "/public/theme/images/lalki/maluszkiewicz/kapelusz.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/maluszkiewicz/kapelusz.png",
+      "bytes": 8603,
+      "sha256": "94a1eecc52ba6d03663cb97dbc35d19d3894970d4e3add575b806a09106aa0aa"
+    },
+    {
+      "path": "/public/theme/images/lalki/maluszkiewicz/parasolka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/maluszkiewicz/parasolka.png",
+      "bytes": 15293,
+      "sha256": "27deaefcac35d83b98d4d6db232154d1889fe64a5970e197f66d6455ec367615"
+    },
+    {
+      "path": "/public/theme/images/lalki/poduszkowiec/cialo.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/poduszkowiec/cialo.png",
+      "bytes": 3447,
+      "sha256": "a803f7ab4a2c4142ecc229abb8c215669a1a83f6380f17de4889a05d75882770"
+    },
+    {
+      "path": "/public/theme/images/lalki/poduszkowiec/glowa01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/poduszkowiec/glowa01.png",
+      "bytes": 2550,
+      "sha256": "920f8b59e2ef87fd303bec55f978742c1a198122375317ebbb4bf7f9e8ffea69"
+    },
+    {
+      "path": "/public/theme/images/lalki/poduszkowiec/glowa02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/poduszkowiec/glowa02.png",
+      "bytes": 2502,
+      "sha256": "c3e1fd0b69c59e62aaa6162e0442646fed27f556f2f9bed115fe91abed602ec9"
+    },
+    {
+      "path": "/public/theme/images/lalki/poduszkowiec/jablko.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/poduszkowiec/jablko.png",
+      "bytes": 1061,
+      "sha256": "4932432bafb6931c8b4b56036b0ef654882d36e7f88e192f07d0fca79ffd5884"
+    },
+    {
+      "path": "/public/theme/images/lalki/poduszkowiec/poduszka02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/poduszkowiec/poduszka02.png",
+      "bytes": 3775,
+      "sha256": "df1ae874a0e29eab073713d4d89b16699c0d305917594bb9c2621c30a7617423"
+    },
+    {
+      "path": "/public/theme/images/lalki/poduszkowiec/poduszka03.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/poduszkowiec/poduszka03.png",
+      "bytes": 5762,
+      "sha256": "a99170a66944d167a54f0a2e8a9abda53a7fd4ef78f89c0cdbeea689cade168b"
+    },
+    {
+      "path": "/public/theme/images/lalki/punch/czapka01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/punch/czapka01.png",
+      "bytes": 1272,
+      "sha256": "a537944439a67e83fecf3df9b93e91e8817fb804450bc914639b34ef1928d194"
+    },
+    {
+      "path": "/public/theme/images/lalki/punch/czapka02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/punch/czapka02.png",
+      "bytes": 1297,
+      "sha256": "42e90a669692a98101ce10c3c3d8c210622f7945366b81478337b80c76ab8052"
+    },
+    {
+      "path": "/public/theme/images/lalki/punch/glowa01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/punch/glowa01.png",
+      "bytes": 4706,
+      "sha256": "4d4e310c96225b95e11adb234bfcf9671f225dd66974c2f50fabc3d80343681e"
+    },
+    {
+      "path": "/public/theme/images/lalki/punch/glowa02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/punch/glowa02.png",
+      "bytes": 4753,
+      "sha256": "2090135b64ed31dba39ab0d5fd31726ad5fabd9cec67d9f82b157f44e4040108"
+    },
+    {
+      "path": "/public/theme/images/lalki/punch/reka01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/punch/reka01.png",
+      "bytes": 768,
+      "sha256": "42de746e51e695185825a65320852795e6b67f63d27be2ad60c16e7ec2b12938"
+    },
+    {
+      "path": "/public/theme/images/lalki/punch/reka02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/punch/reka02.png",
+      "bytes": 781,
+      "sha256": "0e8ef1d34b85da5c23095376a3ab627bcff93fcc1912fc1e520837ec622832b7"
+    },
+    {
+      "path": "/public/theme/images/lalki/punch/skrzydlo.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/punch/skrzydlo.png",
+      "bytes": 4774,
+      "sha256": "ff63bd15d63b32904e9aa33859778581c393d8768b8e50466e70defb1baec25f"
+    },
+    {
+      "path": "/public/theme/images/lalki/punch/tulow.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/punch/tulow.png",
+      "bytes": 3534,
+      "sha256": "2e2bea0d7a5212034dff11b327eff028b3aa55f702ebd47113d2c20bea89bba5"
+    },
+    {
+      "path": "/public/theme/images/lalki/sowa/L_skrzydlo.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/sowa/L_skrzydlo.png",
+      "bytes": 8549,
+      "sha256": "5a0ae32f69f032304649d35ae4e211a0f400db6e87b129ccc3fe7b2a5ba47da1"
+    },
+    {
+      "path": "/public/theme/images/lalki/sowa/P_skrzydlo.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/sowa/P_skrzydlo.png",
+      "bytes": 8075,
+      "sha256": "a5e93fba135efbad6f91dc5359e607bda3a6b7abe5230d8362899a8f082ef26c"
+    },
+    {
+      "path": "/public/theme/images/lalki/sowa/cialo.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/sowa/cialo.png",
+      "bytes": 4213,
+      "sha256": "c7da220ff034a6c3a7ae7382c110cd6ff64cf0b6a5ff2d9fbda2a6b5456be254"
+    },
+    {
+      "path": "/public/theme/images/lalki/sowa/glowa.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/sowa/glowa.png",
+      "bytes": 6872,
+      "sha256": "c5da151934475574bc17014c315da54336f47ba338d012c93f3a0853f91d786d"
+    },
+    {
+      "path": "/public/theme/images/lalki/sowa/oczy_duze.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/sowa/oczy_duze.png",
+      "bytes": 10221,
+      "sha256": "7bbbe7d570326e7252b3b39a6721fbf5518d223bf04937d28ed7dc0c038466d6"
+    },
+    {
+      "path": "/public/theme/images/lalki/sowa/pazury.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/sowa/pazury.png",
+      "bytes": 1285,
+      "sha256": "103f325626740f5dd81c20ff62d4354ad5eb5555a910600965f65c355a8ca1ee"
+    },
+    {
+      "path": "/public/theme/images/lalki/tatar/L_noga.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/tatar/L_noga.png",
+      "bytes": 572,
+      "sha256": "feca8a82b33cbac741f4ad2a7c13fd58b8827bcd7267240df521303bdc773a61"
+    },
+    {
+      "path": "/public/theme/images/lalki/tatar/L_reka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/tatar/L_reka.png",
+      "bytes": 3728,
+      "sha256": "1ecb3d4a28b6c28763a36a63e81f7c5c049d6819a3061e63a25bd74ef808ded1"
+    },
+    {
+      "path": "/public/theme/images/lalki/tatar/P_noga.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/tatar/P_noga.png",
+      "bytes": 577,
+      "sha256": "9ca61309d28652b4b1881974a26a20fd9fe2558a4dffdfa6e61f649aa4a27da7"
+    },
+    {
+      "path": "/public/theme/images/lalki/tatar/P_reka.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/tatar/P_reka.png",
+      "bytes": 889,
+      "sha256": "2abf8d9cdbdc856171b81db0e16b106f63303972121d6bb7dcd5b55a94fd99dd"
+    },
+    {
+      "path": "/public/theme/images/lalki/tatar/cialo.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/tatar/cialo.png",
+      "bytes": 4362,
+      "sha256": "45d4bdc7d58164ccdfeab5dfff29adbd4528c7412e1f34c18a233785449c371d"
+    },
+    {
+      "path": "/public/theme/images/lalki/tatar/glowa.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/tatar/glowa.png",
+      "bytes": 5160,
+      "sha256": "2da8a50a0d22db8d59ed934ab8f53d03288bab8066e697c0b7fa9bc66620fb36"
+    },
+    {
+      "path": "/public/theme/images/lalki/tatar/glowa02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/tatar/glowa02.png",
+      "bytes": 5667,
+      "sha256": "cddf88865625ff68257507be7de09c175e69c07b8dc182cf3ed5dcfe8c497338"
+    },
+    {
+      "path": "/public/theme/images/lalki/tatar/kapelusz.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/tatar/kapelusz.png",
+      "bytes": 13330,
+      "sha256": "4b2f2193b70e973d25a39bc4b54dfd29a64e7916d17e13e5a71898bd3b71ca42"
+    },
+    {
+      "path": "/public/theme/images/lalki/turon/L_dzwonek01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/turon/L_dzwonek01.png",
+      "bytes": 842,
+      "sha256": "1681495370d7c239bfcbf35a817a23ae580144a07034b2d17fc8f91c27490394"
+    },
+    {
+      "path": "/public/theme/images/lalki/turon/L_dzwonek02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/turon/L_dzwonek02.png",
+      "bytes": 837,
+      "sha256": "da699c63d34de6b80d5404eaa4d6561cab7121a0180fa469a12ac768d1aa9d74"
+    },
+    {
+      "path": "/public/theme/images/lalki/turon/L_dzwonek03.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/turon/L_dzwonek03.png",
+      "bytes": 862,
+      "sha256": "66e7d4aa519c354ed0fd784207fe7e901ee21015a4238ee5271eb77b8977e451"
+    },
+    {
+      "path": "/public/theme/images/lalki/turon/L_noga.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/turon/L_noga.png",
+      "bytes": 713,
+      "sha256": "68b05bf32dc3c28f6b0487b2f828d0d62c8fb31901f85519fe5f49296de688ae"
+    },
+    {
+      "path": "/public/theme/images/lalki/turon/P_dzwonek01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/turon/P_dzwonek01.png",
+      "bytes": 829,
+      "sha256": "e52dc968d3e78ef7a39055730d91a5acb5d926afb35a559663724e4855182339"
+    },
+    {
+      "path": "/public/theme/images/lalki/turon/P_dzwonek02.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/turon/P_dzwonek02.png",
+      "bytes": 852,
+      "sha256": "577ceb75f0f6a53fbb426690992d5eb4558e79605e55c9a751c6aa2f3bfee8c7"
+    },
+    {
+      "path": "/public/theme/images/lalki/turon/P_dzwonek03.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/turon/P_dzwonek03.png",
+      "bytes": 856,
+      "sha256": "16a25b9662aec3897e2ded708375abe06337914bfc5bdc007d758312d277bc79"
+    },
+    {
+      "path": "/public/theme/images/lalki/turon/P_noga.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/turon/P_noga.png",
+      "bytes": 713,
+      "sha256": "47bf446fad0f91ca35f2bc670def0752cf365b46cd211b96fe2e6d6e5e7f1a72"
+    },
+    {
+      "path": "/public/theme/images/lalki/turon/glowa01.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/turon/glowa01.png",
+      "bytes": 9684,
+      "sha256": "c5ac7a0957e61348334cac27cf242058d4a2e39820464062340b1b61d1d7f7f4"
+    },
+    {
+      "path": "/public/theme/images/lalki/turon/glowa03.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/turon/glowa03.png",
+      "bytes": 10512,
+      "sha256": "5356226005c1c645989e0a8066062128e52142ade2417db3919b05e33eb18d50"
+    },
+    {
+      "path": "/public/theme/images/lalki/turon/oko.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/turon/oko.png",
+      "bytes": 384,
+      "sha256": "01faf5a5185a4ac25298e00978f5569e590c60080cc5a4418979e5ccc48d45bc"
+    },
+    {
+      "path": "/public/theme/images/lalki/turon/tulow.png",
+      "source": "https://teatrlalka.pl/public/theme/images/lalki/turon/tulow.png",
+      "bytes": 12714,
+      "sha256": "eae09e0efc0065557e4e086a3f1f5c837b2b63b1ce583436057f9024db58b9d4"
+    },
+    {
+      "path": "/public/theme/images/logo-sprite.png",
+      "source": "https://teatrlalka.pl/public/theme/images/logo-sprite.png",
+      "bytes": 30814,
+      "sha256": "e2e858c7e3a5bef413b89b0b14498f90af9639f981857ec7fbf56e2f6cdd7f2a"
+    },
+    {
+      "path": "/public/theme/images/menu_calendar.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_calendar.png",
+      "bytes": 2181,
+      "sha256": "b35a08d9ab5771b8ed1fac3674357ae1f232a5019768eac95d29fb4de6fb666c"
+    },
+    {
+      "path": "/public/theme/images/menu_calendar@2x.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_calendar@2x.png",
+      "bytes": 4501,
+      "sha256": "1defe10078872d404014cad31c49f9a56ff006a8390c782981a5e87e8e3d2f90"
+    },
+    {
+      "path": "/public/theme/images/menu_contact.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_contact.png",
+      "bytes": 3189,
+      "sha256": "55b3a325f65bf9fae2729afcb1fbb8227d4f03e3cecc7a3e3aa88ad0fd6bc535"
+    },
+    {
+      "path": "/public/theme/images/menu_contact@2x.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_contact@2x.png",
+      "bytes": 7070,
+      "sha256": "c0f39f84fc22970b928b209b4f5c230ab5883c01070e945d812ff96acde21e6b"
+    },
+    {
+      "path": "/public/theme/images/menu_education.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_education.png",
+      "bytes": 3179,
+      "sha256": "04510c5f17826f030b0c283a5a4887ccf0e70ec1d1adafcb4351085f72b34075"
+    },
+    {
+      "path": "/public/theme/images/menu_education@2x.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_education@2x.png",
+      "bytes": 6253,
+      "sha256": "a59e4e5be2f10a79771639b171532e2ce6a1826429895ac9facfb246cadf006b"
+    },
+    {
+      "path": "/public/theme/images/menu_history.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_history.png",
+      "bytes": 2278,
+      "sha256": "abdcead98dc288f3b543f095d92d4728fde65a94f098e647a57edac08ad2e8aa"
+    },
+    {
+      "path": "/public/theme/images/menu_history@2x.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_history@2x.png",
+      "bytes": 4310,
+      "sha256": "3575d27f5363e7d8fd020dc6e4a9dd5ac867bf133bbbfccde5d6c5c1413ac049"
+    },
+    {
+      "path": "/public/theme/images/menu_spectacle.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_spectacle.png",
+      "bytes": 3863,
+      "sha256": "b511088dc1dd5b5294875c41b017155e3cc93f8e572130954233c142c94f7db7"
+    },
+    {
+      "path": "/public/theme/images/menu_spectacle@2x.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_spectacle@2x.png",
+      "bytes": 6211,
+      "sha256": "679bf7200452dcc1ab07be7e1d6de9f52a5749b61c3587d1b5ac77d6709f2af7"
+    },
+    {
+      "path": "/public/theme/images/menu_team.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_team.png",
+      "bytes": 3839,
+      "sha256": "ffa5af6a4c3179aa44775e86fa5f80440031e664f9bfe52324af0a858566d7e8"
+    },
+    {
+      "path": "/public/theme/images/menu_team@2x.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_team@2x.png",
+      "bytes": 7580,
+      "sha256": "54f3bd3672672c93acbeca33b10ec7a2d749ccd8127d70a8e9894528c4343f52"
+    },
+    {
+      "path": "/public/theme/images/menu_tickets.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_tickets.png",
+      "bytes": 4922,
+      "sha256": "89fec2205a6c2d84f06f18e45c4fa528bee4ab5421a8b6b7c7a8db71e91b6e5c"
+    },
+    {
+      "path": "/public/theme/images/menu_tickets@2x.png",
+      "source": "https://teatrlalka.pl/public/theme/images/menu_tickets@2x.png",
+      "bytes": 11158,
+      "sha256": "944bad64fe667bcb1e8e632af9cd27162e955a0759fdf0dd764b9a56344eaaaa"
+    },
+    {
+      "path": "/public/theme/images/ticket-big.png",
+      "source": "https://teatrlalka.pl/public/theme/images/ticket-big.png",
+      "bytes": 3331,
+      "sha256": "d8f2b4dd27feea2661556194c98317e2b3d6ff6d75ee4318edf9763365b95ebc"
+    },
+    {
+      "path": "/public/theme/images/ticket-big@2x.png",
+      "source": "https://teatrlalka.pl/public/theme/images/ticket-big@2x.png",
+      "bytes": 9613,
+      "sha256": "333bac508b055a3a358783992cb0a8c16b7d344d53ae473701fad52f9fd245f0"
+    },
+    {
+      "path": "/public/theme/images/ticket.png",
+      "source": "https://teatrlalka.pl/public/theme/images/ticket.png",
+      "bytes": 2490,
+      "sha256": "d8743d2dc00c1b427a84d66399bbd33cbf26de5140ee751583d8309bf242eaa7"
+    },
+    {
+      "path": "/public/theme/images/ticket@2x.png",
+      "source": "https://teatrlalka.pl/public/theme/images/ticket@2x.png",
+      "bytes": 7021,
+      "sha256": "b416426ce8aa0138049e24539d6db48cd7880f46e4f0b5b8a41478a874095002"
+    },
+    {
+      "path": "/public/theme/images/ticket_en-big.png",
+      "source": "https://teatrlalka.pl/public/theme/images/ticket_en-big.png",
+      "bytes": 4119,
+      "sha256": "90e127be4ba346812e8ab07ffa239634411df29fe038a65220efcf4a7ea1f32a"
+    },
+    {
+      "path": "/public/theme/images/ticket_en-big@2x.png",
+      "source": "https://teatrlalka.pl/public/theme/images/ticket_en-big@2x.png",
+      "bytes": 11615,
+      "sha256": "b4b5ae693795063e72df80362e9f5fcabcffd8d48b09c34e86135ab742b9dde9"
+    },
+    {
+      "path": "/public/theme/images/ticket_en.png",
+      "source": "https://teatrlalka.pl/public/theme/images/ticket_en.png",
+      "bytes": 4332,
+      "sha256": "c21c1b9ac94f4b09ea770d88173c1e30e732ad087c3b33bceab438b9dffb3175"
+    },
+    {
+      "path": "/public/theme/images/ticket_en@2x.png",
+      "source": "https://teatrlalka.pl/public/theme/images/ticket_en@2x.png",
+      "bytes": 7291,
+      "sha256": "37ccbe0f9b18f6aceb84e8c2ef5c703ebc05d1b9d21e957b8e042c4583ee02a7"
+    },
+    {
+      "path": "/public/theme/js/libs.min.js",
+      "source": "https://teatrlalka.pl/public/theme/js/libs.min.js",
+      "bytes": 357199,
+      "sha256": "bd33a52d0bcbdf85af04cef5b66cb2b079c1e3638e67e5211f89157efb4dfbc2"
+    },
+    {
+      "path": "/public/theme/js/scripts.min.js",
+      "source": "https://teatrlalka.pl/public/theme/js/scripts.min.js",
+      "bytes": 165175,
+      "sha256": "2fa073ba9ddff73640f3f56ab6dcac6cede701c85bc38c1d6679db543d18376c"
+    },
+    {
+      "path": "/public/theme/sounds/18028_1464273827.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/18028_1464273827.mp3",
+      "bytes": 13604,
+      "sha256": "04eb2396270b8e0e399233efe7ce6be2e488fbd8e0695c525af07cbeb5610803"
+    },
+    {
+      "path": "/public/theme/sounds/212764__qubodup__lion-roar.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/212764__qubodup__lion-roar.mp3",
+      "bytes": 74336,
+      "sha256": "9533c7520eb9596a4765ba2d5c06783813e9690522cc194fc723e681b33f8359"
+    },
+    {
+      "path": "/public/theme/sounds/322445__goodlistener__horse-whinny-1.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/322445__goodlistener__horse-whinny-1.mp3",
+      "bytes": 25698,
+      "sha256": "abe1c90fae4833178709d711ef23e884aecf6a159fbb1d50401331a6472cdd27"
+    },
+    {
+      "path": "/public/theme/sounds/363921__kfatehi__launch.wav",
+      "source": "https://teatrlalka.pl/public/theme/sounds/363921__kfatehi__launch.wav",
+      "bytes": 223706,
+      "sha256": "78538779472a51c4b44733341b4cf4dd020332651292898338b39b6761bc84c0"
+    },
+    {
+      "path": "/public/theme/sounds/369506__selector__sleigh-bells-hit.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/369506__selector__sleigh-bells-hit.mp3",
+      "bytes": 22496,
+      "sha256": "969356d3484d2520f9fe0ea5671aabc22357bd50cff30bcca5563ee8f667ec5d"
+    },
+    {
+      "path": "/public/theme/sounds/380471__acebrian__jump.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/380471__acebrian__jump.mp3",
+      "bytes": 5040,
+      "sha256": "9aba66d5c0d2bd56bfd8f6e51aaa1f3f1b45466ede0ff6c77005b55fd5fd7258"
+    },
+    {
+      "path": "/public/theme/sounds/382735__schots__gun-shot.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/382735__schots__gun-shot.mp3",
+      "bytes": 19040,
+      "sha256": "64f1fd1102b8b2621857e0113684689c675c4d14ed3745cd29b24bb25cdf7e0b"
+    },
+    {
+      "path": "/public/theme/sounds/386691__laurenmg95__player-jump.wav",
+      "source": "https://teatrlalka.pl/public/theme/sounds/386691__laurenmg95__player-jump.wav",
+      "bytes": 265184,
+      "sha256": "0b0ef8697630a47131f212ec2def0d2f764ee6b829c7fc4506e18845837574e4"
+    },
+    {
+      "path": "/public/theme/sounds/387936__whatthes__tap5.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/387936__whatthes__tap5.mp3",
+      "bytes": 1472,
+      "sha256": "1a867404f1f81ea9f7343c7ddeeaddec37a32d66a0d85a94a91187c673d117ec"
+    },
+    {
+      "path": "/public/theme/sounds/392172__random-intruder__ahhhh.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/392172__random-intruder__ahhhh.mp3",
+      "bytes": 36703,
+      "sha256": "7eea1c983c04cfe5f5cb203799b2f8350071a62696e4c0d4b07a56c8b21dc8ea"
+    },
+    {
+      "path": "/public/theme/sounds/399601__sim2710__151203-percus-4.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/399601__sim2710__151203-percus-4.mp3",
+      "bytes": 4400,
+      "sha256": "61255e2437949e9d37e11ddc73505e456491a3737716f5bcd2b9de073ca120cd"
+    },
+    {
+      "path": "/public/theme/sounds/51401__ingsey101__dramatic-drum-roll.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/51401__ingsey101__dramatic-drum-roll.mp3",
+      "bytes": 70016,
+      "sha256": "c5c1ab4ee16d359c34997ed52d248c789cd3dc84e075992d8ae4ab0f85dced1c"
+    },
+    {
+      "path": "/public/theme/sounds/75534__ra-gun__swish-bamboo-pole-w-insect-net-02.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/75534__ra-gun__swish-bamboo-pole-w-insect-net-02.mp3",
+      "bytes": 13195,
+      "sha256": "6ef0fac685304c7e967917511d0966f271d8ba603961217d092520016787a607"
+    },
+    {
+      "path": "/public/theme/sounds/8ping.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/8ping.mp3",
+      "bytes": 11613,
+      "sha256": "8679e48995095bd497e396ffda40acc3177a716953d731d9e4d812b7cde34283"
+    },
+    {
+      "path": "/public/theme/sounds/Dutar BPM 125 05.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/Dutar BPM 125 05.mp3",
+      "bytes": 62999,
+      "sha256": "d466d992d2c75cf67bd108ddb5370fc6f70b32d73253b02148639097ece95db9"
+    },
+    {
+      "path": "/public/theme/sounds/HarpRun.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/HarpRun.mp3",
+      "bytes": 6168,
+      "sha256": "172a8a5f8f98c3b51a82321dd546c427fb23a23e1171a2891348b542724c6c94"
+    },
+    {
+      "path": "/public/theme/sounds/Screams-Shouts_human_male_098.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/Screams-Shouts_human_male_098.mp3",
+      "bytes": 10874,
+      "sha256": "902369934356673e9de49629fa191c3c205d2ca81e238f21835b8f7a422e7f68"
+    },
+    {
+      "path": "/public/theme/sounds/Tension Strings-Low-Mid.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/Tension Strings-Low-Mid.mp3",
+      "bytes": 22133,
+      "sha256": "26df6ab53d2747e78eef3d45fd4607c88bf1db27ef293be1c3ac2519485be2fe"
+    },
+    {
+      "path": "/public/theme/sounds/animals_lion_growl_001.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/animals_lion_growl_001.mp3",
+      "bytes": 17453,
+      "sha256": "3c6f68f194bdf81323e8acf8ae5fa9f862ecd3b4a1f1d22bdce5f08877d7c281"
+    },
+    {
+      "path": "/public/theme/sounds/click_04.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/click_04.mp3",
+      "bytes": 1910,
+      "sha256": "7c67487d66d6d051a48f027129a20053ddf62731c0d388af0a80d9c36496072d"
+    },
+    {
+      "path": "/public/theme/sounds/comedy_swipe_001.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/comedy_swipe_001.mp3",
+      "bytes": 4282,
+      "sha256": "e0f7d9dab1246a08a1bae2528763c1073188b1dd338fd3728ba7f247e1df1fff"
+    },
+    {
+      "path": "/public/theme/sounds/plastic_wobbling.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/plastic_wobbling.mp3",
+      "bytes": 14495,
+      "sha256": "554ed85b96905501b4806a47224545685c384ba4061da85bd242cf27af8fb0c9"
+    },
+    {
+      "path": "/public/theme/sounds/pop-14.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/pop-14.mp3",
+      "bytes": 1760,
+      "sha256": "2b07274f0090ce1511d4522b8c38e25717fb661ed68c9691699c3f02f83221e3"
+    },
+    {
+      "path": "/public/theme/sounds/smirk2.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/smirk2.mp3",
+      "bytes": 8864,
+      "sha256": "697e2388cb5db2af687c80ae2ca55ea7ec7e682ff8ace2711dd8fc3ba513eae7"
+    },
+    {
+      "path": "/public/theme/sounds/tap-double.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/tap-double.mp3",
+      "bytes": 1910,
+      "sha256": "c9f73626363feea8e8994611f7ca697897dc1a05e73a0b3a2ba1e25d1f139cf8"
+    },
+    {
+      "path": "/public/theme/sounds/tap-kissy.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/tap-kissy.mp3",
+      "bytes": 1910,
+      "sha256": "d9eef3709faf11083d411f4ba26317f982673295b33d4417d82cf987be3ddb24"
+    },
+    {
+      "path": "/public/theme/sounds/tap-mellow.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/tap-mellow.mp3",
+      "bytes": 1910,
+      "sha256": "afd1b2614179a539444508665c1bce75ec24779a6bcdf92d3e7aee45a2cd9e85"
+    },
+    {
+      "path": "/public/theme/sounds/wingflaps3.mp3",
+      "source": "https://teatrlalka.pl/public/theme/sounds/wingflaps3.mp3",
+      "bytes": 7538,
+      "sha256": "12eac1e20e47a1bb3b2ce00f6dbeccc11b68981654e6d9ec13ad674e21ed844c"
+    },
+    {
+      "path": "/public/upload/history/desktop/59c91b8bc49c5_1.jpg",
+      "source": "https://teatrlalka.pl/public/upload/history/desktop/59c91b8bc49c5_1.jpg",
+      "bytes": 46022,
+      "sha256": "62077689cbdaaaf1336939b0b18d46b62b9f3166324e0698fab0b1c71d3d2260"
+    },
+    {
+      "path": "/public/upload/history/desktop/59c91bcc98ac6_1.jpg",
+      "source": "https://teatrlalka.pl/public/upload/history/desktop/59c91bcc98ac6_1.jpg",
+      "bytes": 28616,
+      "sha256": "0faa9113a290ada2eb51ef9c7e912487372a5d3650ee560e90a32aecdd49aa91"
+    },
+    {
+      "path": "/public/upload/history/desktop/59c91bfe08423_1.jpg",
+      "source": "https://teatrlalka.pl/public/upload/history/desktop/59c91bfe08423_1.jpg",
+      "bytes": 46608,
+      "sha256": "8e846a6d507d2916592d658cec76bb3304f064f9b9c6362619eda7284a415f34"
+    },
+    {
+      "path": "/public/theme/js/webfont.js",
+      "source": "https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js",
+      "bytes": 16587,
+      "sha256": "ce261eb163fcaee6953cedc35059732a133766ab824dc512bbdf9424d48601e4"
+    }
+  ],
+  "failures": []
+}

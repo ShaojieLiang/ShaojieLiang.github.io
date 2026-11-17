@@ -1,0 +1,352 @@
+<!DOCTYPE HTML>
+<html lang="pl" class="no-js">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HSYD8RXE9R"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-HSYD8RXE9R');
+    </script>
+    
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1, user-scalable=no">
+
+    <title>Strona nie znaleziona - Teatr Lalka</title>
+    <meta name="description" content="">
+    <meta name="author" content="Huncwot.com">
+
+    <meta property="fb:app_id" content="1916301555356773"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:description" content="">
+    <meta property="og:title" content="Strona nie znaleziona - Teatr Lalka">
+        <meta property="og:image" content="https://teatrlalka.pl/public/upload/og/medium/598848dd45f9a.jpg">
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+        <meta property="og:url" content="https://teatrlalka.pl/pl/404">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Strona nie znaleziona - Teatr Lalka">
+    <meta name="twitter:site" content="@TeatrLalka">
+    <meta name="twitter:id" content="@TeatrLalka">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="https://teatrlalka.pl/public/upload/og/medium/598848dd45f9a.jpg">
+
+    <link rel="stylesheet" href="/public/theme/css/style.css?v=1.53.0">
+    
+    <link rel="apple-touch-icon" href="/public/theme/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/public/theme/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/public/theme/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/public/theme/favicons/manifest.json">
+    <link rel="mask-icon" href="/public/theme/favicons/safari-pinned-tab.svg" color="#001f49">
+    <link rel="shortcut icon" href="/public/theme/favicons/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="Teatr Lalka">
+    <meta name="application-name" content="Teatr Lalka">
+    <meta name="msapplication-config" content="/public/theme/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#efeded">
+
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <script>
+        WebFontConfig = { custom: { families: ['Din:n5,i5,n7,i7', 'Lalka']} };
+        (function(d) {
+            var wf = d.createElement('script'), s = d.scripts[0];
+            wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js';
+            s.parentNode.insertBefore(wf, s);
+        })(document);
+    </script>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window,document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1306818000468631');
+    fbq('track', 'PageView');
+    </script>
+    <noscript>
+    <img height="1" width="1"
+    src="https://www.facebook.com/tr?id=1306818000468631&ev=PageView
+    &noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+</head>
+
+<body class="is-not-ready">
+    <svg class="svg-sprite"  xmlns="http://www.w3.org/2000/svg"><symbol id="sprite-add" viewBox="0 0 19 19"><path d="M8 8H0v3h8v8h3v-8h8V8h-8V0H8z"/></symbol><symbol id="sprite-arrow_left-small" viewBox="0 0 16 13"><path d="M3.264 7.137H15.47V5.442H3.475L7.64 1.275 6.442.076.2 6.318v.153l6.242 6.242 1.2-1.199z"/></symbol><symbol id="sprite-arrow_left" viewBox="0 0 22 23"><title>arrow_left</title><path d="M5.813 13h15.843v-3H5.813l7.843-7.844L11.5 0 0 11.5 11.5 23l2.156-2.156L5.813 13z" fill-rule="nonzero"/></symbol><symbol id="sprite-arrow_right-small" viewBox="0 0 16 13"><path d="M12.745 5.652H.539v1.696h11.995l-4.166 4.166 1.199 1.2 6.242-6.243-.077-.076.077-.077L9.567.076l-1.2 1.2 4.378 4.376z"/></symbol><symbol id="sprite-arrow_right" viewBox="0 0 22 23"><title>arrow_right</title><path d="M15.844 10H0v3h15.844L8 20.844 10.156 23l11.5-11.5L10.156 0 8 2.156 15.844 10z" fill-rule="nonzero"/></symbol><symbol id="sprite-caret_down" viewBox="0 0 12 7"><path fill-rule="evenodd" d="M6 5L1 0 0 1l5.5 5.5.5.5 6-6-1-1-5 5z"/></symbol><symbol id="sprite-caret_left" viewBox="0 0 14 23"><title>arrow_left</title><path d="M11.686 0L.373 11.314l11.313 11.313 2.122-2.12-9.193-9.193 9.193-9.193z" fill-rule="evenodd"/></symbol><symbol id="sprite-caret_right-small" viewBox="0 0 6 10"><title>Button/Go</title><g fill-rule="evenodd"><path d="M.208 8.344l4.38-4.38.812.813-4.38 4.38z"/><path d="M1.02.445l4.38 4.38-.812.812-4.38-4.38z"/></g></symbol><symbol id="sprite-caret_right" viewBox="0 0 14 23"><title>arrow_right</title><path d="M2.314 23l11.313-11.314L2.314.373.192 2.493l9.193 9.193L.192 20.88z" fill-rule="evenodd"/></symbol><symbol id="sprite-close-small" viewBox="0 0 12 12"><path d="M4.303 6L.15 10.151 1.85 11.85 6 7.697l4.151 4.152 1.698-1.698L7.697 6l4.152-4.151L10.15.15 6 4.303 1.849.15.15 1.85 4.303 6z"/></symbol><symbol id="sprite-close" viewBox="0 0 32 32"><path d="M.879 3L29 31.121 31.121 29 3 .879z"/><path d="M3 31.121L31.121 3 29 .879.879 29z"/></symbol><symbol id="sprite-content" viewBox="0 0 40 40"><path d="M11 19h9v-3h-9zM11 24h18v-3H11zM11 14h18v-3H11zM11 29h11v-3H11z"/></symbol><symbol id="sprite-facebook" viewBox="0 0 20 20"><title>facebook</title><path d="M11.424 10.748h2.467l.367-2.858h-2.834V6.064c0-.827.23-1.392 1.417-1.392h1.516v-2.56C14.097 2.075 13.195 2 12.151 2 9.964 2 8.473 3.336 8.473 5.784v2.113H6v2.858h2.473v7.332h2.951v-7.339z" fill-rule="nonzero"/></symbol><symbol id="sprite-instagram" viewBox="0 0 20 20"><title>instagram</title><g><path d="M18.722 3.692a4.593 4.593 0 0 0-1.078-1.663A4.572 4.572 0 0 0 15.988.947c-.593-.232-1.28-.392-2.27-.435C12.718.468 12.4.454 9.854.454 7.31.454 6.992.46 5.993.512c-.998.043-1.677.203-2.27.435A4.572 4.572 0 0 0 2.066 2.03 4.593 4.593 0 0 0 .99 3.692c-.232.595-.39 1.285-.434 2.28C.512 6.972.497 7.291.497 9.847s.007 2.875.058 3.877c.043 1.002.202 1.684.434 2.28.239.617.557 1.14 1.077 1.662.521.523 1.042.842 1.657 1.082.593.232 1.28.392 2.27.436.999.043 1.317.058 3.862.058 2.546 0 2.864-.008 3.862-.058.998-.044 1.678-.204 2.271-.436a4.572 4.572 0 0 0 1.656-1.082 4.593 4.593 0 0 0 1.078-1.662c.231-.596.39-1.285.434-2.28.043-1.002.058-1.321.058-3.877 0-2.555-.007-2.875-.058-3.877-.043-1.002-.203-1.684-.434-2.28zm-1.251 9.953c-.044.915-.195 1.416-.326 1.743a2.91 2.91 0 0 1-.701 1.081c-.326.327-.636.53-1.078.705-.332.13-.824.283-1.735.326-.991.044-1.28.058-3.783.058-2.502 0-2.799-.007-3.782-.058-.911-.043-1.41-.196-1.736-.326a2.898 2.898 0 0 1-1.078-.705 2.942 2.942 0 0 1-.701-1.081c-.13-.334-.282-.828-.325-1.743-.044-.994-.058-1.292-.058-3.797s.007-2.81.058-3.797c.043-.915.195-1.416.325-1.742a2.91 2.91 0 0 1 .701-1.082c.326-.327.637-.53 1.078-.704.333-.13.825-.283 1.736-.327.99-.043 1.287-.058 3.782-.058s2.8.007 3.783.058c.91.044 1.41.196 1.735.327.434.167.752.377 1.078.704.325.327.528.639.701 1.082.13.334.282.827.326 1.742.043.995.058 1.292.058 3.797s-.015 2.81-.058 3.797z"/><path d="M9.848 5.02c-2.654 0-4.81 2.164-4.81 4.828 0 2.665 2.156 4.828 4.81 4.828 2.654 0 4.81-2.163 4.81-4.828 0-2.664-2.156-4.828-4.81-4.828zm0 7.965a3.131 3.131 0 0 1-3.124-3.137 3.131 3.131 0 0 1 3.124-3.136 3.127 3.127 0 0 1 3.124 3.136 3.136 3.136 0 0 1-3.124 3.137z"/><ellipse cx="14.846" cy="4.832" rx="1.121" ry="1.125"/></g></symbol><symbol id="sprite-lalka_logo" viewBox="0 0 128 56"><title>Teatr Lalka</title><g stroke-width="0" fill-rule="evenodd"><path d="M111.255 46.113l1.946-6.72 1.647 6.72h-3.593zm-9.13-13.553v5.128l6.91-1.938L103.172 56h5.22l2.227-7.69h4.767L117.27 56h10.442l-8.355-23.44h-17.232zM89.072 32.56l-4.698 9.587V32.56H76.02V56h8.355v-9.586L89.072 56h9.4l-8.877-11.72 8.878-11.72h-9.401M63.488 32.56h-8.355V56h16.71v-5.494l-8.355 2.564V32.56M35.024 46.113l1.944-6.714 1.646 6.714h-3.59zM25.896 32.56v5.128l6.906-1.938L26.938 56h5.222l2.227-7.69h4.765L41.036 56H51.48l-8.355-23.44H25.896zM15.452 32.56H7.098V56h16.707v-5.494l-8.353 2.564V32.56M112.262 11.598V3.053c2.883 0 5.219 1.913 5.219 4.273 0 2.36-2.336 4.272-5.22 4.272zm15.662-4.085c0-4.045-5.009-7.513-11.19-7.513h-12.827v23.44h8.355v-8.79h3.015l3.247 8.79h9.191l-5.857-9.562c3.602-1.162 6.066-3.528 6.066-6.365zM74.666 0v5.495L83.02 2.93V23.44h8.353V2.93l8.356 2.564V0H74.666M63.889 13.553l-1.646-6.717-1.945 6.717h3.59zm-6.453 9.887h-5.222l5.864-20.25-6.91 1.938V0H68.4l8.355 23.44H66.31l-1.884-7.69h-4.764l-2.227 7.69zM47.515 23.44V18.31l-9.921 2.199v-7.324l7.31 1.098V9.156l-7.31 1.1V2.932l9.921 2.197V0H29.24v23.44h18.276M0 0v5.495L8.355 2.93V23.44h8.353V2.93l8.354 2.564V0H0"/></g></symbol><symbol id="sprite-search" viewBox="0 0 18 21"><path d="M11.126 14.067a7.476 7.476 0 0 1-3.621.929A7.501 7.501 0 0 1 0 7.498 7.501 7.501 0 0 1 7.505 0a7.501 7.501 0 0 1 7.504 7.498c0 2.1-.864 4-2.258 5.361L18 19.778 16.386 21l-5.26-6.933zm-9.125-6.57a5.501 5.501 0 0 0 5.504 5.5 5.501 5.501 0 0 0 5.503-5.5A5.501 5.501 0 0 0 7.505 2 5.501 5.501 0 0 0 2 7.498z"/></symbol><symbol id="sprite-time" viewBox="0 0 18 18"><g fill-rule="evenodd"><path d="M8 5v6h6v-1H9V5H8zm1 13A8 8 0 1 1 9 2a8 8 0 0 1 0 16zM12.79 1.324a2.816 2.816 0 1 1 4.777 2.985L12.79 1.324zM5.205 1.324A2.816 2.816 0 0 0 .428 4.31l4.777-2.985z"/></g></symbol><symbol id="sprite-twitter" viewBox="0 0 20 20"><title>twitter</title><path d="M6.552 17.625c6.666 0 10.313-5.628 10.313-10.505 0-.158 0-.316-.011-.48a7.45 7.45 0 0 0 1.806-1.913c-.66.3-1.363.497-2.084.581a3.688 3.688 0 0 0 1.596-2.043 7.22 7.22 0 0 1-2.3.897 3.579 3.579 0 0 0-5.125-.158A3.736 3.736 0 0 0 9.7 7.532C6.785 7.386 4.07 5.98 2.23 3.677c-.964 1.688-.47 3.844 1.12 4.928a3.528 3.528 0 0 1-1.646-.463v.045c0 1.756 1.219 3.268 2.909 3.618a3.556 3.556 0 0 1-1.635.062c.477 1.502 1.834 2.535 3.386 2.563A7.208 7.208 0 0 1 1 15.965a10.115 10.115 0 0 0 5.552 1.66" fill-rule="nonzero"/></symbol><symbol id="sprite-video-play" viewBox="0 0 24 24"><path d="M-2.046 7.404l19.092-4.95-4.95 19.092z"/></symbol><symbol id="sprite-video-sound" viewBox="0 0 24 24"><path d="M9 16H5V8h4zM11 8v8l8 5V3z"/></symbol></svg>
+    <nav class="quick-access">
+        <a class="quick-access__link" href="#content">Przejdź do głównej treści</a>
+    </nav>
+    <aside class="coookies js-cookies">
+    <div class="coookies__wrap">
+        <p class="coookies__text">
+        	Ta strona korzysta z plików cookies aby świadczyć usługi na najwyższym poziomie. Dalsze korzystanie ze strony oznacza, że zgadzasz się na ich użycie.
+        	        </p>
+        <button class="coookies__button js-cookies-agree"><svg class="sprite-caret_right-small"><use xlink:href="#sprite-caret_right-small"/></svg>Akceptuję</button>
+        <a class="coookies__button" href="/pl/polityka-prywatnosci"><svg class="sprite-caret_right-small"><use xlink:href="#sprite-caret_right-small"/></svg>Dowiedz się więcej</a>
+        <button class="coookies__close js-cookies-agree"><svg class="sprite-close"><use xlink:href="#sprite-close"/></svg><span class="sr-only">Zamknij</span></button>
+    </div>
+</aside>    <header class="header js-header" id="header">
+
+
+    <button class="header__sounds js-toggle-sounds"><svg class="svg-sounds"  viewBox="0 0 22.1 22.1">
+<polygon fill="#DAD3DE" points="11.6,3.5 6.5,8.1 2.5,8.1 2.5,14.1 6.5,14.1 11.6,18.8 "/>
+<path fill="#DAD3DE" d="M13.2,17c2,0,3.6-2.7,3.6-5.9c0-3.2-1.7-5.9-3.6-5.9V3.5 c3,0,5.4,3.4,5.4,7.6c0,4.3-2.4,7.6-5.4,7.6V17z"/>
+<path fill="#DAD3DE" d="M13.2,14c1.1,0,1.9-1.3,1.9-2.9c0-1.6-0.9-2.9-1.9-2.9V14z"/>
+<line fill="none" stroke="#DAD3DE" stroke-width="1.5" x1="0.5" y1="0.5" x2="21.5" y2="21.5"/>
+</svg>
+<span class="sr-only">Włącz/wyłącz dźwięki</span></button>
+
+
+    <div class="header__logo js-invert js-logo">
+        <a href="/pl" data-sound-hover="pop" title="Teatr Lalka"><svg class="sprite-lalka_logo"><use xlink:href="#sprite-lalka_logo"/></svg><span class="js-blue-logo"></span></a>
+        <div class="header__title js-header-title"></div>
+    </div>
+    <div class="header__logo header__logo--alt js-logo-alt">
+        <div>
+            <a href="/pl" data-sound-hover="pop"><svg class="sprite-lalka_logo"><use xlink:href="#sprite-lalka_logo"/></svg><span class="js-white-logo"></span></a>
+            <div class="header__title js-header-title"></div>
+        </div>
+    </div>
+
+    <div data-cssanimate="button g > *:last-child">
+        <div class="header__menu js-hamburger js-invert">
+            <button class="js-menu-toggle js-filter-close" data-sound-hover="pop"><svg class="svg-lalka_menu"  width="80px" height="32px" viewBox="0 0 80 32">
+    <g stroke="none" stroke-width="0" fill="#0F00CE" fill-rule="evenodd">
+        <polygon points="15.5124826 6 13.0377492 17.5197368 10.5630157 6 2.91981243 6 2 23 4.7594373 23 5.41644618 10.8092105 9.33659917 23 14.6364708 23 17.0017028 12.0842105 18.0967176 23 23.8345951 23 23.0899851 6"></polygon>
+        <polygon points="39.5609986 9.71315789 39.5609986 6 26.8588269 6 26.8588269 23 39.5609986 23 39.5609986 19.2868421 32.6405051 20.875 32.6405051 15.5513158 37.743274 16.3565789 37.743274 12.6434211 32.6405051 13.4263158 32.6405051 8.125"></polygon>
+        <polygon points="54.0828858 6 54.0828858 13.0684211 47.7756006 6 42.6947319 6 42.6947319 23 46.1987792 23 46.1987792 14.0526316 54.4332905 23 57.5869332 23 57.5869332 6"></polygon>
+        <path d="M72.2183219,6 L72.2183219,14.5 C72.2183219,18.75 71.7803159,20.8526316 69.5902863,20.8526316 C67.4002567,20.8526316 66.9622508,18.75 66.9622508,14.5 L66.9622508,6 L61.1805727,6 L61.1805727,14.5 C61.1805727,21.4118421 64.9693239,23 69.5902863,23 C74.1893485,23 78,21.4118421 78,14.5 L78,6 L72.2183219,6 Z"></path>
+    </g>
+    <polygon stroke="none" stroke-width="0" fill="#0F00CE" fill-rule="evenodd" points="0 32 80 32 80 29 0 29"></polygon>
+</svg>
+<span class="sr-only">Menu</span></button>
+        </div>
+        <div class="header__menu header__menu--alt js-hamburger-alt">
+            <button class="js-menu-toggle js-filter-close" data-sound-hover="pop"><svg class="svg-lalka_menu-alt"  width="80px" height="32px" viewBox="0 0 80 32">
+    <g stroke="none" stroke-width="0" fill="#FFFFFF" fill-rule="evenodd">
+        <polygon points="15.5124826 6 13.0377492 17.5197368 10.5630157 6 2.91981243 6 2 23 4.7594373 23 5.41644618 10.8092105 9.33659917 23 14.6364708 23 17.0017028 12.0842105 18.0967176 23 23.8345951 23 23.0899851 6"></polygon>
+        <polygon points="39.5609986 9.71315789 39.5609986 6 26.8588269 6 26.8588269 23 39.5609986 23 39.5609986 19.2868421 32.6405051 20.875 32.6405051 15.5513158 37.743274 16.3565789 37.743274 12.6434211 32.6405051 13.4263158 32.6405051 8.125"></polygon>
+        <polygon points="54.0828858 6 54.0828858 13.0684211 47.7756006 6 42.6947319 6 42.6947319 23 46.1987792 23 46.1987792 14.0526316 54.4332905 23 57.5869332 23 57.5869332 6"></polygon>
+        <path d="M72.2183219,6 L72.2183219,14.5 C72.2183219,18.75 71.7803159,20.8526316 69.5902863,20.8526316 C67.4002567,20.8526316 66.9622508,18.75 66.9622508,14.5 L66.9622508,6 L61.1805727,6 L61.1805727,14.5 C61.1805727,21.4118421 64.9693239,23 69.5902863,23 C74.1893485,23 78,21.4118421 78,14.5 L78,6 L72.2183219,6 Z"></path>
+    </g>
+    <polygon stroke="none" stroke-width="0" fill="#0F00CE" fill-rule="evenodd" points="0 32 80 32 80 29 0 29"></polygon>
+</svg>
+</button>
+        </div>
+    </div>
+
+
+
+    <nav class="menu js-menu">
+
+        <div class="menu__bg js-menu-bg preload-bg"></div>
+
+        <div class="menu__main js-menu-wrap">
+
+            <button class="menu__close js-menu-toggle" data-sound-hover><svg class="svg-menu_close"  width="42" height="42" xmlns="http://www.w3.org/2000/svg"><path fill="#FFF" fill-rule="evenodd" d="M21 18.861L2.142 0 .007 2.135l18.858 18.862L0 39.865 2.135 42 21 23.132 39.865 42 42 39.865 23.135 20.997 41.993 2.135 39.858 0z"/></svg></button>
+
+            <div class="tab">
+                <div class="tab-cell">
+                    <ul class="float float--menu">
+                                            <li class="float__item float__item--top js-menu-item">
+                            <a href="/pl/Aktualności" class="menu__item" data-sound-hover="pop">
+                                <img src="/public/theme/images/menu_contact.png" srcset="/public/theme/images/menu_contact@2x.png 2x, /public/theme/images/menu_contact.png 1x" alt="Aktualności">
+                                <span>Aktualności</span>
+                            </a>
+                        </li>
+                                            <li class="float__item float__item--top js-menu-item">
+                            <a href="/pl/kalendarz" class="menu__item" data-sound-hover="pop">
+                                <img src="/public/theme/images/menu_calendar.png" srcset="/public/theme/images/menu_calendar@2x.png 2x, /public/theme/images/menu_calendar.png 1x" alt="Kalendarz">
+                                <span>Kalendarz</span>
+                            </a>
+                        </li>
+                                            <li class="float__item float__item--top js-menu-item">
+                            <a href="/pl/spektakle" class="menu__item" data-sound-hover="pop">
+                                <img src="/public/theme/images/menu_spectacle.png" srcset="/public/theme/images/menu_spectacle@2x.png 2x, /public/theme/images/menu_spectacle.png 1x" alt="Spektakle">
+                                <span>Spektakle</span>
+                            </a>
+                        </li>
+                                            <li class="float__item float__item--top js-menu-item">
+                            <a href="/pl/bilety" class="menu__item" data-sound-hover="pop">
+                                <img src="/public/theme/images/menu_tickets.png" srcset="/public/theme/images/menu_tickets@2x.png 2x, /public/theme/images/menu_tickets.png 1x" alt="Bilety">
+                                <span>Bilety</span>
+                            </a>
+                        </li>
+                                            <li class="float__item float__item--top js-menu-item">
+                            <a href="/pl/edukacja" class="menu__item" data-sound-hover="pop">
+                                <img src="/public/theme/images/menu_education.png" srcset="/public/theme/images/menu_education@2x.png 2x, /public/theme/images/menu_education.png 1x" alt="Edukacja">
+                                <span>Edukacja</span>
+                            </a>
+                        </li>
+                                            <li class="float__item float__item--top js-menu-item">
+                            <a href="/pl/zespol" class="menu__item" data-sound-hover="pop">
+                                <img src="/public/theme/images/menu_team.png" srcset="/public/theme/images/menu_team@2x.png 2x, /public/theme/images/menu_team.png 1x" alt="Zespół">
+                                <span>Zespół</span>
+                            </a>
+                        </li>
+                                            <li class="float__item float__item--top js-menu-item">
+                            <a href="/pl/historia" class="menu__item" data-sound-hover="pop">
+                                <img src="/public/theme/images/menu_history.png" srcset="/public/theme/images/menu_history@2x.png 2x, /public/theme/images/menu_history.png 1x" alt="Historia">
+                                <span>Historia</span>
+                            </a>
+                        </li>
+                                            <li class="float__item float__item--top js-menu-item">
+                            <a href="/pl/kontakt" class="menu__item" data-sound-hover="pop">
+                                <img src="/public/theme/images/menu_contact.png" srcset="/public/theme/images/menu_contact@2x.png 2x, /public/theme/images/menu_contact.png 1x" alt="Kontakt">
+                                <span>Kontakt</span>
+                            </a>
+                        </li>
+                                        </ul>
+                </div>
+            </div>
+
+
+            <div class="menu__bar grid-t-8">
+                <div class="js-menu-bottom-item">
+                    <a href="/en?langset=true" data-history="false" data-sound-hover="underline"><span class="menu__link">English</span></a>
+                                    </div>
+
+                <hr class="desktop-hide js-menu-line">
+
+                <div class="js-menu-bottom-item">
+                    <a href="/pl/szukaj" class="menu__search" data-sound-hover="underline"><svg class="sprite-search"><use xlink:href="#sprite-search"/></svg> <span class="menu__link">Szukaj</span></a>
+                </div>
+            </div>
+
+
+            <div class="menu__links grid-t-8">
+                <ul>
+                                                            <li><a class="js-menu-left-item" href="/pl/misja-wizja" data-sound-hover="underline">Misja / Wizja</a></li>
+                                                                                <li><a class="js-menu-left-item" href="/pl/aktualnosci" data-sound-hover="underline">Aktualności</a></li>
+                                                                                <li><a class="js-menu-left-item" href="/pl/ogloszenia" data-sound-hover="underline">Ogłoszenia</a></li>
+                                                                                <li><a class="js-menu-left-item" href="/pl/teatr-bez-barier" data-sound-hover="underline">Teatr bez barier</a></li>
+                                                                                <li><a class="js-menu-left-item" href="/pl/oferta-dla-firm" data-sound-hover="underline">Oferta dla firm</a></li>
+                                                                                <li><a class="js-menu-left-item" href="/pl/deklaracja-dostepnosci" data-sound-hover="underline">Deklaracja dostępności</a></li>
+                                                                                <li><a class="js-menu-left-item" href="/pl/rodo" data-sound-hover="underline">Polityka prywatności / RODO</a></li>
+                                                                                <li><a class="js-menu-left-item" href="/pl/archiwum" data-sound-hover="underline">Archiwum</a></li>
+                                                                                <li><a class="js-menu-left-item" href="/pl/partnerzy" data-sound-hover="underline">Partnerzy</a></li>
+                                                        </ul>
+            </div>
+        </div>
+
+    </nav>
+
+</header>
+
+    <div class="wrapper" id="wrapper">
+        <div class="backgrounds">
+    <div class="background background--grey"></div>
+    <div class="background background--bio js-bio-bg"></div>
+    <div class="background background--violet"></div>
+    <div class="background background--pink"></div>
+    <div class="background background--blue-light"></div>
+    <div class="background background--blue-plain"></div>
+    <div class="background background--blue preload-bg"></div>
+    <div class="background background--yellow-light"></div>
+    <div class="background background--yellow"></div>
+    <div class="background background--brown-light"></div>
+    <div class="background background--brown"></div>
+    <div class="background background--cardboard preload-bg"></div>
+    <div class="background background--black"></div>
+    
+    <div class="background background--tickets">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+        </div>
+    <div class="background background--white-light"></div>
+    <div class="background background--white"></div>
+</div>
+        <main id="content" class="content">
+<article class="article article p404" data-page  data-404  data-title="Strona nie znaleziona - Teatr Lalka" data-header-title="Strona nie znaleziona"><h1 class="sr-only">Strona nie znaleziona - Teatr Lalka</h1>
+      <h2 class="p404__title">404</h2>
+
+    <div data-comp="Scene" data-options='{"puppets": [[&quot;Krol&quot;,0.5,0.43,0.5,0.8,0.2]]}' class="p404__puppet scene" data-invert><canvas></canvas></div>
+
+    <div class="p404__wrapper">
+        <p class="p404__info">Strona nie została znaleziona.</p>
+        <a class="p404__link" href="/pl"><svg class="sprite-arrow_right-small"><use xlink:href="#sprite-arrow_right-small"/></svg> Przejdź do strony głównej</a>
+    </div>
+</article>
+
+</main>
+    </div>
+
+    <footer class="footer js-footer" id="footer">
+    <div class="footer__inner"><div class="grid-t-4 phone-hide tablet-hide">
+            <svg class="svg-warszawa"  viewBox="0 0 360 721" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M180 631c9.3-26.2 34.3-45 63.7-45H315c24.8 0 45-20.1 45-45V181H0v360c0 24.9 20.1 45 45 45h71.3c29.4 0 54.4 18.8 63.7 45z" fill="#E62314"/><path d="M258.8 46c-7.5 0-14.6 2-20.6 5.6-6.1-3.5-13.1-5.6-20.6-5.6-8.3 0-16.1 2.5-22.5 6.7-.4-7.9-6.9-14.2-15-14.2s-14.6 6.3-15 14.2c-6.5-4.2-14.2-6.7-22.5-6.7-7.5 0-14.6 2-20.6 5.6-6.1-3.5-13.1-5.6-20.6-5.6-22.8 0-41.2 18.5-41.2 41.2 0 22.7 18.5 41.2 41.2 41.2l9 22.5h139.3l9.2-22.5c22.8 0 41.2-18.5 41.2-41.2 0-22.7-18.6-41.2-41.3-41.2zm-45.9 5.6c13.5 0 24.4 10.9 24.4 24.4 0 13.5-10.9 24.4-24.4 24.4-13.5 0-24.4-10.9-24.4-24.4.1-13.5 11-24.4 24.4-24.4zm-65.8 0c13.5 0 24.4 10.9 24.4 24.4 0 13.5-10.9 24.4-24.4 24.4-13.5 0-24.4-10.9-24.4-24.4 0-13.5 10.9-24.4 24.4-24.4zM81.4 76c0-13.5 10.9-24.4 24.4-24.4 4.2 0 8.2 1.1 11.6 2.9-9.8 7.5-16.2 19.4-16.2 32.7 0 4.5.8 8.9 2.1 13C91.1 99 81.4 88.6 81.4 76zm175.2 24.3c1.4-4.1 2.1-8.5 2.1-13 0-13.3-6.4-25.2-16.2-32.7 3.4-1.9 7.4-2.9 11.6-2.9 13.5 0 24.4 10.9 24.4 24.4.1 12.5-9.6 22.9-21.9 24.2zM176.1 22.8l-4.8 8.2h17.3l-4.7-8.2c1.2-.7 2.2-1.7 2.9-2.9l8.2 4.7V7.3l-8.2 4.7c-.7-1.2-1.7-2.2-2.9-2.9l4.7-8.2h-17.3l4.7 8.2c-1.2.7-2.2 1.7-2.9 2.9l-8.2-4.7v17.3l8.2-4.7c.8 1.2 1.8 2.2 3 2.9z" fill="#FFC837"/><path d="M196.8 325.4c.2-.5.5-1 .7-1.5 2.8-5.4 6.5-10.2 10.8-14.4-5.7-2.4-28.9-12.1-31.9-13.4-7.1-3.1-2.1-18.1-1.4-23.1-15.8-2.3-16-27.5-24.3-30.8-3.7 2-4.8 4.9-5.5 9.7-.3 2.2.5 2.6-1.3 4.8-.9 1.1-4.5 3.3-4.6 4.3-.3 1.8 2.9 2.6 3.5 2.7 0 .8-.8 2-.8 3.5s.8 2.1.7 3c-.2 1.6-1.5 3.3-.5 4.6.5.7 1.8 1.3 3.4 1.7 4.6 1 9.9 0 14.4-.9.1 0 .2 0 .3.2-.8 1.2-2.3 2-3.5 2.8-.9.5-1.8.9-2.7 1.3.5 3.9-1 12.6-2.6 12.4-17.5-2.2-24.7-10.1-50.8-18.3 1.3-12.9 7.1-36.4 9-43.6-1.6-.5-3.2-1.1-4.5-2h.1c2 .5 4.6.1 5.8 0 2.2-.3 6.2-1.2 7.1-2 .4-.3 1.4-2.8 2.2-5.7l6.1-.1v2.4l1.2 9.6h6.9v-10.4c1.8-.1 21-.9 45.5-.9 59 0 82.4 16.2 96.5 31.1v-3.7c-9.4-19.7-38-37.6-96.5-37.6h-40.2c-2 3.4-4.2 8.2-5.4 10.7v-21.1h-6.9l-1.2 9.2v2.8l-5-.1c.1-1.2.1-2.1.1-2.4-1.5-.6-3.3.9-3.7 2.2-.3.9-2.6 8.1-2.6 8.1h-6.1c.3-.2.5-.5.6-.9l.2-.7c.1.1.2.2.3.2.9.3 1.9-.2 2.2-1.1l1.5-4.5c.3-1 1-1 1.6-1h2.2c0-1.5-2.6-4.3-2.6-4.3-.9-.9-2.3-.9-3.1 0-.1.1-.2.2-.2.4-.5-.6-1-1.1-1-1.1-.9-.9-2.3-.9-3.2 0-.2.2-.4.5-.5.7-.4-.5-1-.9-1.7-.9-1.2 0-2.2 1-2.2 2.2v.1c-.3-.2-.7-.3-1.1-.3-1.1.1-2 1-1.9 2.2l.1.8-10.3-.2v9.2l7.4-.1c-.2 1.1-.3 2.6-.2 3.3.2 1.2.8 1.8 1.1 2.5.2 8.2-17.5 45.6-14 54.4 3.9 9.7 46.1 21.5 42.7 30-3 7.6-8.5 13.3-7.5 17.2.9 3.8 3 6.9 5.9 8.4 1.5.9 3.1 1.5 4.6 1.9.2.1.2-.1.3.3 0 .3-.1.2-.5.4-1.5.3-3 .4-4.5.2V363h-.1c-9.9 9.9-18 20.6-24 32.5 19.4 19 49.3 25 75.3 13.1-.5-13.7-3.5-23.1-8.6-35.7 0 0 20.5-42.9 23-45.5 1.8-2.3 4.1-2.4 5.9-2zm-49 15.7l.6-.4c2.5 3.5 6.5 5.8 11.1 5.8 6.5 0 11.9-4.6 13.3-10.7.3 0 .8.1.8.1 2.7 16.4-16.8 24.7-25.8 5.2z" fill="#fff"/><path d="M191.6 260.9c1.9 2.1 5.7 2.5 10.5 1.3-2.6 4.1-6.4 6.8-10.5 8.6-6.1 2.1-11.7 2.5-16.7 2.1-15.8-2.3-16-27.5-24.3-30.8-2.1-2 2.2-4.7 5.1-5.7 6.7-2.4 15.1-1 22.4 3.3 9.2 5.5 11 12.5 28.2 11.5-.1 6.7-11 10.4-14.7 9.7zM209.6 308.2c-4.9 4.4-9 9.7-12 15.7-4.1 7.7-6.3 16.6-6.3 25.9 0 31.1 25.2 56.3 56.2 56.3 31.1 0 56.3-25.2 56.3-56.3 0-31.1-25.2-56.2-56.3-56.2-14.6-.1-27.9 5.5-37.9 14.6zM229.7 449.4c-12.9-8.1-30-4-38.3 9.2 17.6 0 31.9 14.3 31.9 31.9 0 17.6-14.3 31.9-31.9 31.9-17.6 0-31.9-14.3-31.9-31.9 0-28.9 17-52.1 17-78.3 0-1.4-.1-2.7-.1-3.9-26 11.9-55.9 5.9-75.3-13.1-7.2 14.3-11.2 30.3-11.2 48.4 0 69.3 40.4 112.5 90.1 112.5 37.3 0 69.5-27.6 69.5-69 0-35.1 5.6-47.8 14.6-56.7-15-4.3-30.4 4.3-34.4 19z" fill="#FFC837"/><g fill="#fff"><path d="M68.9 671.3c.9 0 1.2.6.9 1.5l-17 47.1c-.2.5-.7.9-1.4.9h-1.9c-.7 0-1.2-.3-1.4-.9L35 686.6l-13.1 33.3c-.2.6-.8.9-1.4.9h-1.9c-.7 0-1.2-.4-1.4-.9l-17-47.1c-.3-.9 0-1.5.9-1.5h6.8c.7 0 1.2.3 1.4.9l10.8 32.5 12.7-32.5c.2-.5.7-.9 1.4-.9h1.6c.7 0 1.2.4 1.4.9l12.7 32.5 10.8-32.5c.2-.7.7-.9 1.4-.9h6.8zM72.8 702.5c0-11.1 8.5-18.5 17.7-18.5 5.5 0 9.5 2.4 11.9 6.3V686c0-.7.5-1.2 1.2-1.2h5.2c.7 0 1.2.5 1.2 1.2v33c0 .7-.5 1.2-1.2 1.2h-5.2c-.7 0-1.2-.5-1.2-1.2v-4.4c-2.5 4-6.4 6.3-11.9 6.3-9.2.1-17.7-7.3-17.7-18.4zm8.4 0c0 7.2 5 11.4 10.6 11.4 6.1 0 10.6-4.6 10.6-11.4 0-6.8-4.5-11.4-10.6-11.4-5.6.1-10.6 4.3-10.6 11.4zM140.3 684.1c1 0 1.3.3 1.3 1.2v6.9c0 .7-.3 1.3-1.4 1-4.6-1.1-11 2.4-11 11.4V719c0 .7-.5 1.2-1.2 1.2h-5.6c-.7 0-1.2-.5-1.2-1.2v-33c0-.7.5-1.2 1.2-1.2h5.2c.7 0 1.2.5 1.2 1.2v7.4c3.4-6.8 8.4-9.3 11.5-9.3zM175.6 710c0 7.2-7.1 11-15.7 11-5.2 0-9.6-1.3-13.8-3.9-.6-.4-.9-.9-.6-1.7l1.9-4.1c.3-.7.9-1.1 1.7-.6 3.2 1.8 6.3 3.7 11 3.7 4.3 0 7.1-1.1 7.1-3.4 0-7-20.3-2.1-20.3-15.7 0-6.9 5.6-11.2 15.1-11.2 4.8 0 8.3 1.1 11.7 2.9.6.3.9.9.6 1.7l-1.9 4.1c-.3.6-.7 1-1.5.5-2.2-1.3-5.1-2.6-8.7-2.6-4.9 0-7.2 1.5-7.2 3.9-.1 7.1 20.6 1.9 20.6 15.4zM180.5 719v-.4c0-.6.2-.9.5-1.3l19.9-25.5h-17.8c-.7 0-1.2-.5-1.2-1.2V686c0-.7.5-1.2 1.2-1.2H213c.7 0 1.2.6 1.2 1.2v.4c0 .4-.1.7-.5 1.1l-19.9 25.6H213c.7 0 1.2.5 1.2 1.2v4.6c0 .7-.5 1.2-1.2 1.2h-31.2c-.8.2-1.3-.3-1.3-1.1zM219.3 702.5c0-11.1 8.5-18.5 17.7-18.5 5.5 0 9.5 2.4 11.9 6.3V686c0-.7.5-1.2 1.2-1.2h5.2c.7 0 1.2.5 1.2 1.2v33c0 .7-.5 1.2-1.2 1.2h-5.2c-.7 0-1.2-.5-1.2-1.2v-4.4c-2.5 4-6.4 6.3-11.9 6.3-9.1.1-17.7-7.3-17.7-18.4zm8.5 0c0 7.2 5 11.4 10.6 11.4 6.1 0 10.6-4.6 10.6-11.4 0-6.8-4.5-11.4-10.6-11.4-5.6.1-10.6 4.3-10.6 11.4zM291.8 684.8c.4 0 .7.2.9.8l10 20.7 7.7-20.1c.4-1 .7-1.4 2.1-1.4h5.4c1.1 0 1.5.7 1.1 1.8L305.6 720c-.3.8-.7 1-1.1 1h-1.2c-.4 0-.8-.3-1.1-.9l-11.1-22.8-11.2 22.7c-.3.7-.7.9-1.1.9h-1.2c-.4 0-.8-.2-1.1-1l-13.4-33.4c-.4-1.1 0-1.8 1.1-1.8h5.4c1.4 0 1.7.3 2.1 1.4l7.7 20.1 10-20.7c.3-.6.5-.8.9-.8h1.5v.1zM322.6 702.5c0-11.1 8.5-18.5 17.7-18.5 5.5 0 9.5 2.4 11.9 6.3V686c0-.7.5-1.2 1.2-1.2h5.2c.7 0 1.2.5 1.2 1.2v33c0 .7-.5 1.2-1.2 1.2h-5.2c-.7 0-1.2-.5-1.2-1.2v-4.4c-2.5 4-6.4 6.3-11.9 6.3-9.2.1-17.7-7.3-17.7-18.4zm8.4 0c0 7.2 5 11.4 10.6 11.4 6.1 0 10.6-4.6 10.6-11.4 0-6.8-4.5-11.4-10.6-11.4-5.6.1-10.6 4.3-10.6 11.4z"/></g></svg>
+        </div><div class="grid-t-4"><p class="footer__title">Teatr Lalka</p><address>
+                Palac Kultury i Nauki<br/><a href="https://goo.gl/maps/uF6wgd6TGKT2" target="_blank" rel="noopener noreferrer" data-hover="underline">Plac Defilad 1, 00-901 Warszawa</a><br/>
+                Instytucja Kultury m.st. Warszawy            </address></div><div class="grid-t-4"><p class="footer__title">Dział Organizacji Widowni</p><address><a href="tel:+48226566957">(22) 656 69 57</a>, <a href="tel:+48226566956">(22) 656 69 56</a><br /><a href="mailto:rezerwacje@teatrlalka.pl" data-hover="underline">rezerwacje@teatrlalka.pl</a></address></div><!--
+        <div class="grid-t-4 newsletter js-newsletter"><p class="footer__title">Newsletter</p><form action="/pl/api/newsletter_add" data-api='{"beforeCall": "validate", "callback": "onSubscribe"}' data-comp="Newsletter"><div class="newsletter__wrapper newsletter__wrapper--email"><input type="email" placeholder="twój e-mail" name="email" required></div><div class="newsletter__wrapper newsletter__wrapper--checkbox"><input type="checkbox" id="newsletter-agree" name="agree" required><label for="newsletter-agree">Wyrażam zgodę na otrzymywanie newslettera zawierającego informacje handlowe dotyczące Teatru Lalka.
+                        <a class="newsletter__link" href="/pl/polityka-prywatnosci">
+                            Więcej
+                            <span class="sr-only">Czytaj na temat polityki prywatności</span></a></label></div><div class="newsletter__error js-error"></div><button class="newsletter__submit" data-sound-hover><span class="sr-only"></span><span><svg class="sprite-add"><use xlink:href="#sprite-add"/></svg></span></button></form><div class="newsletter__message js-newsletter-message"></div><a href="#" class="newsletter__toggle js-newsletter-toggle tablet-hide"><span class="sr-only">Pokaż newsletter</span></a></div>
+    --><div class="grid-t-4"><div class="footer__partner desktop-hide">
+                <svg class="svg-warszawa"  viewBox="0 0 360 721" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M180 631c9.3-26.2 34.3-45 63.7-45H315c24.8 0 45-20.1 45-45V181H0v360c0 24.9 20.1 45 45 45h71.3c29.4 0 54.4 18.8 63.7 45z" fill="#E62314"/><path d="M258.8 46c-7.5 0-14.6 2-20.6 5.6-6.1-3.5-13.1-5.6-20.6-5.6-8.3 0-16.1 2.5-22.5 6.7-.4-7.9-6.9-14.2-15-14.2s-14.6 6.3-15 14.2c-6.5-4.2-14.2-6.7-22.5-6.7-7.5 0-14.6 2-20.6 5.6-6.1-3.5-13.1-5.6-20.6-5.6-22.8 0-41.2 18.5-41.2 41.2 0 22.7 18.5 41.2 41.2 41.2l9 22.5h139.3l9.2-22.5c22.8 0 41.2-18.5 41.2-41.2 0-22.7-18.6-41.2-41.3-41.2zm-45.9 5.6c13.5 0 24.4 10.9 24.4 24.4 0 13.5-10.9 24.4-24.4 24.4-13.5 0-24.4-10.9-24.4-24.4.1-13.5 11-24.4 24.4-24.4zm-65.8 0c13.5 0 24.4 10.9 24.4 24.4 0 13.5-10.9 24.4-24.4 24.4-13.5 0-24.4-10.9-24.4-24.4 0-13.5 10.9-24.4 24.4-24.4zM81.4 76c0-13.5 10.9-24.4 24.4-24.4 4.2 0 8.2 1.1 11.6 2.9-9.8 7.5-16.2 19.4-16.2 32.7 0 4.5.8 8.9 2.1 13C91.1 99 81.4 88.6 81.4 76zm175.2 24.3c1.4-4.1 2.1-8.5 2.1-13 0-13.3-6.4-25.2-16.2-32.7 3.4-1.9 7.4-2.9 11.6-2.9 13.5 0 24.4 10.9 24.4 24.4.1 12.5-9.6 22.9-21.9 24.2zM176.1 22.8l-4.8 8.2h17.3l-4.7-8.2c1.2-.7 2.2-1.7 2.9-2.9l8.2 4.7V7.3l-8.2 4.7c-.7-1.2-1.7-2.2-2.9-2.9l4.7-8.2h-17.3l4.7 8.2c-1.2.7-2.2 1.7-2.9 2.9l-8.2-4.7v17.3l8.2-4.7c.8 1.2 1.8 2.2 3 2.9z" fill="#FFC837"/><path d="M196.8 325.4c.2-.5.5-1 .7-1.5 2.8-5.4 6.5-10.2 10.8-14.4-5.7-2.4-28.9-12.1-31.9-13.4-7.1-3.1-2.1-18.1-1.4-23.1-15.8-2.3-16-27.5-24.3-30.8-3.7 2-4.8 4.9-5.5 9.7-.3 2.2.5 2.6-1.3 4.8-.9 1.1-4.5 3.3-4.6 4.3-.3 1.8 2.9 2.6 3.5 2.7 0 .8-.8 2-.8 3.5s.8 2.1.7 3c-.2 1.6-1.5 3.3-.5 4.6.5.7 1.8 1.3 3.4 1.7 4.6 1 9.9 0 14.4-.9.1 0 .2 0 .3.2-.8 1.2-2.3 2-3.5 2.8-.9.5-1.8.9-2.7 1.3.5 3.9-1 12.6-2.6 12.4-17.5-2.2-24.7-10.1-50.8-18.3 1.3-12.9 7.1-36.4 9-43.6-1.6-.5-3.2-1.1-4.5-2h.1c2 .5 4.6.1 5.8 0 2.2-.3 6.2-1.2 7.1-2 .4-.3 1.4-2.8 2.2-5.7l6.1-.1v2.4l1.2 9.6h6.9v-10.4c1.8-.1 21-.9 45.5-.9 59 0 82.4 16.2 96.5 31.1v-3.7c-9.4-19.7-38-37.6-96.5-37.6h-40.2c-2 3.4-4.2 8.2-5.4 10.7v-21.1h-6.9l-1.2 9.2v2.8l-5-.1c.1-1.2.1-2.1.1-2.4-1.5-.6-3.3.9-3.7 2.2-.3.9-2.6 8.1-2.6 8.1h-6.1c.3-.2.5-.5.6-.9l.2-.7c.1.1.2.2.3.2.9.3 1.9-.2 2.2-1.1l1.5-4.5c.3-1 1-1 1.6-1h2.2c0-1.5-2.6-4.3-2.6-4.3-.9-.9-2.3-.9-3.1 0-.1.1-.2.2-.2.4-.5-.6-1-1.1-1-1.1-.9-.9-2.3-.9-3.2 0-.2.2-.4.5-.5.7-.4-.5-1-.9-1.7-.9-1.2 0-2.2 1-2.2 2.2v.1c-.3-.2-.7-.3-1.1-.3-1.1.1-2 1-1.9 2.2l.1.8-10.3-.2v9.2l7.4-.1c-.2 1.1-.3 2.6-.2 3.3.2 1.2.8 1.8 1.1 2.5.2 8.2-17.5 45.6-14 54.4 3.9 9.7 46.1 21.5 42.7 30-3 7.6-8.5 13.3-7.5 17.2.9 3.8 3 6.9 5.9 8.4 1.5.9 3.1 1.5 4.6 1.9.2.1.2-.1.3.3 0 .3-.1.2-.5.4-1.5.3-3 .4-4.5.2V363h-.1c-9.9 9.9-18 20.6-24 32.5 19.4 19 49.3 25 75.3 13.1-.5-13.7-3.5-23.1-8.6-35.7 0 0 20.5-42.9 23-45.5 1.8-2.3 4.1-2.4 5.9-2zm-49 15.7l.6-.4c2.5 3.5 6.5 5.8 11.1 5.8 6.5 0 11.9-4.6 13.3-10.7.3 0 .8.1.8.1 2.7 16.4-16.8 24.7-25.8 5.2z" fill="#fff"/><path d="M191.6 260.9c1.9 2.1 5.7 2.5 10.5 1.3-2.6 4.1-6.4 6.8-10.5 8.6-6.1 2.1-11.7 2.5-16.7 2.1-15.8-2.3-16-27.5-24.3-30.8-2.1-2 2.2-4.7 5.1-5.7 6.7-2.4 15.1-1 22.4 3.3 9.2 5.5 11 12.5 28.2 11.5-.1 6.7-11 10.4-14.7 9.7zM209.6 308.2c-4.9 4.4-9 9.7-12 15.7-4.1 7.7-6.3 16.6-6.3 25.9 0 31.1 25.2 56.3 56.2 56.3 31.1 0 56.3-25.2 56.3-56.3 0-31.1-25.2-56.2-56.3-56.2-14.6-.1-27.9 5.5-37.9 14.6zM229.7 449.4c-12.9-8.1-30-4-38.3 9.2 17.6 0 31.9 14.3 31.9 31.9 0 17.6-14.3 31.9-31.9 31.9-17.6 0-31.9-14.3-31.9-31.9 0-28.9 17-52.1 17-78.3 0-1.4-.1-2.7-.1-3.9-26 11.9-55.9 5.9-75.3-13.1-7.2 14.3-11.2 30.3-11.2 48.4 0 69.3 40.4 112.5 90.1 112.5 37.3 0 69.5-27.6 69.5-69 0-35.1 5.6-47.8 14.6-56.7-15-4.3-30.4 4.3-34.4 19z" fill="#FFC837"/><g fill="#fff"><path d="M68.9 671.3c.9 0 1.2.6.9 1.5l-17 47.1c-.2.5-.7.9-1.4.9h-1.9c-.7 0-1.2-.3-1.4-.9L35 686.6l-13.1 33.3c-.2.6-.8.9-1.4.9h-1.9c-.7 0-1.2-.4-1.4-.9l-17-47.1c-.3-.9 0-1.5.9-1.5h6.8c.7 0 1.2.3 1.4.9l10.8 32.5 12.7-32.5c.2-.5.7-.9 1.4-.9h1.6c.7 0 1.2.4 1.4.9l12.7 32.5 10.8-32.5c.2-.7.7-.9 1.4-.9h6.8zM72.8 702.5c0-11.1 8.5-18.5 17.7-18.5 5.5 0 9.5 2.4 11.9 6.3V686c0-.7.5-1.2 1.2-1.2h5.2c.7 0 1.2.5 1.2 1.2v33c0 .7-.5 1.2-1.2 1.2h-5.2c-.7 0-1.2-.5-1.2-1.2v-4.4c-2.5 4-6.4 6.3-11.9 6.3-9.2.1-17.7-7.3-17.7-18.4zm8.4 0c0 7.2 5 11.4 10.6 11.4 6.1 0 10.6-4.6 10.6-11.4 0-6.8-4.5-11.4-10.6-11.4-5.6.1-10.6 4.3-10.6 11.4zM140.3 684.1c1 0 1.3.3 1.3 1.2v6.9c0 .7-.3 1.3-1.4 1-4.6-1.1-11 2.4-11 11.4V719c0 .7-.5 1.2-1.2 1.2h-5.6c-.7 0-1.2-.5-1.2-1.2v-33c0-.7.5-1.2 1.2-1.2h5.2c.7 0 1.2.5 1.2 1.2v7.4c3.4-6.8 8.4-9.3 11.5-9.3zM175.6 710c0 7.2-7.1 11-15.7 11-5.2 0-9.6-1.3-13.8-3.9-.6-.4-.9-.9-.6-1.7l1.9-4.1c.3-.7.9-1.1 1.7-.6 3.2 1.8 6.3 3.7 11 3.7 4.3 0 7.1-1.1 7.1-3.4 0-7-20.3-2.1-20.3-15.7 0-6.9 5.6-11.2 15.1-11.2 4.8 0 8.3 1.1 11.7 2.9.6.3.9.9.6 1.7l-1.9 4.1c-.3.6-.7 1-1.5.5-2.2-1.3-5.1-2.6-8.7-2.6-4.9 0-7.2 1.5-7.2 3.9-.1 7.1 20.6 1.9 20.6 15.4zM180.5 719v-.4c0-.6.2-.9.5-1.3l19.9-25.5h-17.8c-.7 0-1.2-.5-1.2-1.2V686c0-.7.5-1.2 1.2-1.2H213c.7 0 1.2.6 1.2 1.2v.4c0 .4-.1.7-.5 1.1l-19.9 25.6H213c.7 0 1.2.5 1.2 1.2v4.6c0 .7-.5 1.2-1.2 1.2h-31.2c-.8.2-1.3-.3-1.3-1.1zM219.3 702.5c0-11.1 8.5-18.5 17.7-18.5 5.5 0 9.5 2.4 11.9 6.3V686c0-.7.5-1.2 1.2-1.2h5.2c.7 0 1.2.5 1.2 1.2v33c0 .7-.5 1.2-1.2 1.2h-5.2c-.7 0-1.2-.5-1.2-1.2v-4.4c-2.5 4-6.4 6.3-11.9 6.3-9.1.1-17.7-7.3-17.7-18.4zm8.5 0c0 7.2 5 11.4 10.6 11.4 6.1 0 10.6-4.6 10.6-11.4 0-6.8-4.5-11.4-10.6-11.4-5.6.1-10.6 4.3-10.6 11.4zM291.8 684.8c.4 0 .7.2.9.8l10 20.7 7.7-20.1c.4-1 .7-1.4 2.1-1.4h5.4c1.1 0 1.5.7 1.1 1.8L305.6 720c-.3.8-.7 1-1.1 1h-1.2c-.4 0-.8-.3-1.1-.9l-11.1-22.8-11.2 22.7c-.3.7-.7.9-1.1.9h-1.2c-.4 0-.8-.2-1.1-1l-13.4-33.4c-.4-1.1 0-1.8 1.1-1.8h5.4c1.4 0 1.7.3 2.1 1.4l7.7 20.1 10-20.7c.3-.6.5-.8.9-.8h1.5v.1zM322.6 702.5c0-11.1 8.5-18.5 17.7-18.5 5.5 0 9.5 2.4 11.9 6.3V686c0-.7.5-1.2 1.2-1.2h5.2c.7 0 1.2.5 1.2 1.2v33c0 .7-.5 1.2-1.2 1.2h-5.2c-.7 0-1.2-.5-1.2-1.2v-4.4c-2.5 4-6.4 6.3-11.9 6.3-9.2.1-17.7-7.3-17.7-18.4zm8.4 0c0 7.2 5 11.4 10.6 11.4 6.1 0 10.6-4.6 10.6-11.4 0-6.8-4.5-11.4-10.6-11.4-5.6.1-10.6 4.3-10.6 11.4z"/></g></svg>
+            </div><div class="footer__icons"><a href="https://www.facebook.com/Teatr-Lalka-176557982392443" target="_blank" rel="noopener noreferrer" 
+                    title="Link otwiera się w nowym oknie"
+                    data-sound-hover><span class="sr-only">Przejdź do facebook</span>
+                    <svg class="sprite-facebook"><use xlink:href="#sprite-facebook"/></svg>
+                </a><a href="https://www.instagram.com/teatr_lalka/" target="_blank" rel="noopener noreferrer" 
+                    title="Link otwiera się w nowym oknie"
+                    data-sound-hover><span class="sr-only">Przejdź do instagram</span>
+                    <svg class="sprite-instagram"><use xlink:href="#sprite-instagram"/></svg>
+                </a></div><div class="footer__icons"><a href="https://teatrlalka.bip.warszawa.pl/" target="_blank" rel="noopener noreferrer" title="Link otwiera się w nowym oknie"><span class="sr-only">Przejdź do BIP</span>
+                    <svg class="svg-bip"  width="28" height="32" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="a8"><stop stop-color="#DA251D" offset="0%"/><stop stop-color="#89211B" offset="100%"/></linearGradient></defs><path fill="#FFF" fill-rule="evenodd" d="M0 1h28v13H0z"/><path fill="url(#a8)" fill-rule="evenodd" d="M0 27h22l6 5V14H0v13zM14.552 4.018a.596.596 0 00-.596.596v3.564a2.444 2.444 0 002.442 2.434 2.445 2.445 0 002.442-2.441 2.445 2.445 0 00-2.442-2.442c-.457 0-.884.128-1.25.347V4.614a.596.596 0 00-.596-.596zm1.846 2.903a1.25 1.25 0 11-1.25 1.25c0-.69.561-1.25 1.25-1.25zm3.669-1.188a.596.596 0 00-.597.596v2.04c0 .722.102 1.734.98 2.177a.597.597 0 00.537-1.066c-.08-.04-.324-.163-.324-1.112V6.33a.596.596 0 00-.596-.596zm0-1.712a.656.656 0 100 1.311.656.656 0 000-1.311zm3.075 7.556v-1.315c.366.219.792.347 1.25.347a2.444 2.444 0 002.44-2.442 2.444 2.444 0 00-2.44-2.441 2.445 2.445 0 00-2.443 2.441v3.41a.596.596 0 101.193 0zm1.25-4.659a1.25 1.25 0 010 2.498 1.25 1.25 0 010-2.498zM0 0v1h28V0H0z"/></svg>
+                </a></div></div></div>
+</footer>
+
+<div class="interlude js-interlude" data-options='{ "silent": false }'>
+    <canvas></canvas>
+</div>
+
+<div class="splash js-splash">
+    <div class="splash__bg"></div>
+    <div class="splash__logo"><svg class="sprite-lalka_logo"><use xlink:href="#sprite-lalka_logo"/></svg></div>
+</div>
+    
+<script type="text/twig" id="tmpl-media">
+{% if isMobile == false or isAudio == true %}
+<div class="playerbar-wrap"><div class="playerbar"><button class="playpause" aria-label="Odtwórz/Zatrzymaj" tabindex="0"><span class="sr-only">Odtwórz/Zatrzymaj</span></button><div class="scrubber-wrap"><div class="scrubber" tabindex="0" aria-label="przewiń materiał w przód / w tył" role="slider"><div class="loaded"></div><div class="progress"></div></div></div><div class="time"><em class="played">00:00</em> / <strong class="duration">00:00</strong></div>
+        {% if isMobile == false %}<div class="volume-wrap"><button class="volume" tabindex="0" aria-label="Wyłącz / Włącz dźwięk"><div><svg class="svg-volume"  width="24px" height="24px" viewBox="0 0 24 24"><polygon fill="#F1F0EC" points="9,16.8 5,16.8 5,8.3 9,8.3 "/><polygon fill="#F1F0EC" points="11.1,8.3 11.1,16.8 19,21 19,4 "/><g><rect x="-2.3" y="11.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -5.2721 12.7279)" fill="#1E0EB6" width="30" height="2"/><rect x="-3.7" y="10.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -4.6863 11.3137)" fill="#FFF" width="30" height="2"/></g></svg>
+</div></button></div>{% endif %}
+        {% if isAudio == false and isMobile == false %}
+            <button class="full" tabindex="0" aria-label="Widok pełnoekranowy"><div>{% for i in 0..4 %}<span></span>{% endfor %}</div></button>
+        {% endif %}
+    </div></div>
+{% endif %}
+
+</script>
+    <script src="/public/theme/js/libs.min.js?v=1.53.0"></script>
+    <script src="/public/theme/js/scripts.min.js?v=1.53.0"></script>
+    <script src="https://ewejsciowki.pl/embedded_static/embedded.js"></script>
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-61219665-8', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+    
+</body>
+</html>
+<!-- cached in 0.00089097023010254 -->

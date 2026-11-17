@@ -63,6 +63,11 @@
 
 ```text
 .
+├── dev/                       # 完整开发源文件、模板、素材与内容配置
+├── build.py                   # 从源文件重新生成发布版
+├── check.py                   # 自动静态服务与链接检查
+├── requirements.txt           # Python 构建依赖
+├── DEVELOPMENT.md             # 换电脑开发与发布指南
 ├── index.html                 # 首页
 ├── personal.css               # 个人内容与中文排版适配
 ├── personal.js                # 施工告示板与默认静音
@@ -77,13 +82,18 @@
 └── docs/cover.svg              # 仓库介绍封面
 ```
 
-在仓库根目录运行静态服务器即可本地查看：
+换电脑后，克隆整个仓库即可继续开发。首次安装依赖，再构建、检查和预览：
 
 ```bash
+python -m pip install -r requirements.txt
+python build.py
+python check.py
 python -m http.server 8000
 ```
 
-打开 `http://localhost:8000/`。经历页面路径保留末尾的 `/`，以便原页面切换组件正确匹配。`/me/` 兼容旧主页链接，已有的 `/true-camera-mirror/` 摄像头工具独立保留。
+打开 `http://localhost:8000/`。建议使用 Python 虚拟环境，详见 **[完整开发指南](DEVELOPMENT.md)**。修改经历编辑 `dev/content.json`，修改个人样式和交互编辑 `dev/site/personal.css`、`dev/site/personal.js`，随后重新构建。根目录的发布文件由构建生成。
+
+构建使用仓库内的模板和素材，不依赖旧电脑路径或原参考站在线服务。经历页面路径保留末尾的 `/`，以便原页面切换组件正确匹配。`/me/` 兼容旧主页链接，已有的 `/true-camera-mirror/` 摄像头工具独立保留。
 
 </details>
 

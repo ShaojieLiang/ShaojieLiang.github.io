@@ -1,0 +1,32 @@
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+import { readFile } from 'node:fs/promises';
+const source = await readFile(new URL('../site/personal.js', import.meta.url), 'utf8');
+function setup(ready = false) {
+  let click, shows = 0, hides = 0, removedOldHandler = false;
+  const view = { find() { return this; }, off(event) { assert.equal(event, 'click'); removedOldHandler = true; return this; }, on(event, fn) { click = fn; } };
+  const notice = { view, shown: false, show() { shows++; this.shown = true; }, hide() { hides++; this.view = null; } };
+  const splash = { hide() {} };
+  const originalHide = splash.hide;
+  const context = { Widgets: { Sounds: {} }, site: { cookies: notice, splash, isReady: ready }, document: { body: { classList: { add() {} } } } };
+  context.window = context;
+  vm.runInNewContext(source, context);
+  context.initializePersonalSite();
+  return { context, notice, originalHide, counts: () => ({ shows, hides, removedOldHandler }), click: () => click({ preventDefault() {}, stopPropagation() {} }) };
+}
+const test = setup();
+assert.equal(test.counts().shows, 0, 'Notice waits for the original intro callback');
+test.notice.tryToShow();
+test.notice.tryToShow();
+assert.equal(test.counts().shows, 1, 'No duplicate notice');
+assert.equal(test.context.site.splash.hide, test.originalHide, 'Original intro is untouched');
+test.click();
+assert.equal(test.counts().hides, 1);
+assert.equal(test.counts().removedOldHandler, true, 'Do not persist the old cookie dismissal');
+test.notice.tryToShow();
+assert.equal(test.counts().shows, 1, 'Closed notice stays closed during this visit');
+const nextVisit = setup();
+nextVisit.notice.tryToShow();
+assert.equal(nextVisit.counts().shows, 1, 'New visit shows its notice');
+assert.equal(setup(true).counts().shows, 1, 'Already-ready initialization is supported');
+console.log('PASS: original intro preserved; notice waits, dismisses, and returns on the next visit.');
